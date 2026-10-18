@@ -11,3 +11,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest discover -s tests -v
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Test checkout and delivery security
+        run: node --test commerce/tests/commerce.test.mjs

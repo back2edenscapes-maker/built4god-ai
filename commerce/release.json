@@ -1,0 +1,13 @@
+{
+  "sku": "launchready-v1",
+  "version": "1.0",
+  "title": "LaunchReady — Software Product Validation & Launch Kit",
+  "price_cents": 900,
+  "currency": "usd",
+  "files": 11,
+  "sha256": "ca4ceec247340f79739d8112ae8cec2480d77991608bf81583cee1823203d8c1",
+  "provenance": "Original rebuilt product; Phase 2 attachment unavailable",
+  "validation": "No verified sales or buyer validation yet",
+  "checkout_status": "requires_Stripe_configuration",
+  "product_bytes": "private_R2_only"
+}

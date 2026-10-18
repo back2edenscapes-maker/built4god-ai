@@ -1,0 +1,36 @@
+name: Verified revenue report
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 7 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: built4god-state
+  cancel-in-progress: false
+jobs:
+  report:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 3
+    env:
+      COMMERCE_SITE_URL: ${{ vars.COMMERCE_SITE_URL }}
+      COMMERCE_REPORT_TOKEN: ${{ secrets.COMMERCE_REPORT_TOKEN }}
+      COMMERCE_SITE_SERVICE_TOKEN: ${{ secrets.COMMERCE_SITE_SERVICE_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          ref: main
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+      - name: Retrieve verified totals
+        run: python -m built4god.revenue
+      - name: Save aggregate report
+        run: |
+          git config user.name 'built4god-bot'
+          git config user.email 'built4god-bot@users.noreply.github.com'
+          git add output/revenue
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update verified aggregate revenue'
+            git push origin HEAD:main
+          fi
