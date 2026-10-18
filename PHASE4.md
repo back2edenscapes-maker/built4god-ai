@@ -38,3 +38,7 @@ Voluntary, de-identified learning belongs in [feedback-log.csv](marketing/phase4
 ## What remains unverified
 
 First live customer and live fulfillment; customer willingness to pay; meaningful buyer feedback; exact account reach; search indexing; email deliverability; dedicated support contact. No system change in this phase can guarantee those outcomes. Publication approval must specify account, content and placement. The working payment and recovery paths stay available while those decisions are pending.
+
+## Verification record
+
+Production metadata checks confirmed canonical links on home/preview/policies, no-index metadata on access/recovery/dashboard, and HTTP 200 for all checked HTML/robots/sitemap resources. Checkout remains live and redirects 303 to the unchanged Wearebuilt4god Payment Link. Browser tests confirmed presets and the note-save action; a discovered text line-break issue was corrected and covered by a regression test. Commerce tests: 18 passed; Python tests: 8 passed; TypeScript and production build passed. GitHub tests, growth review and verified revenue workflows were exercised. See saved live-verification and scorecard artifacts for the exact observed snapshot. No real payment or refund was performed.
