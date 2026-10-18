@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-10-18T07:18:28.230Z",
+  "generated_at": "2026-10-18T07:23:48.811Z",
   "analytics_status": "collecting",
   "analytics_started_at": "2026-10-18T05:44:18.175Z",
   "counts": {
-    "visit": 2,
+    "visit": 3,
     "preview": 0,
-    "checkout": 0
+    "checkout": 0,
+    "exercise_complete": 0
   },
   "traffic": [
     {
       "day": "2026-10-18",
       "event": "visit",
       "source": "direct",
-      "count": 2
+      "count": 3
     }
   ],
   "sales": {
@@ -27,6 +28,24 @@
   "order_per_pageview_rate": 0,
   "rate_limitations": "Events, not unique people. Bots and reloads affect counts; privacy opt-outs are not measured. Source tags are client supplied. Fees and net after fees are unavailable.",
   "email_status": "disabled",
+  "weekly": {
+    "start_utc": "2026-10-12T00:00:00+00:00",
+    "end_exclusive_utc": "2026-10-19T00:00:00+00:00",
+    "counts": {
+      "visit": 4,
+      "preview": 0,
+      "checkout": 0,
+      "exercise_complete": 0
+    },
+    "sales": {
+      "paid_orders": 0,
+      "gross_cents": 0,
+      "refunded_cents": 0,
+      "net_before_fees_cents": 0,
+      "currency": "usd"
+    },
+    "refund_basis": "Refunds currently applied to orders paid in this week; not refund-date cash flow."
+  },
   "monitor": {
     "checkout_ready": true,
     "health_status": 200,

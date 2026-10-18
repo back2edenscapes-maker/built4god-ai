@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-10-18T07:23:48.811Z",
+  "period": {
+    "start_utc": "2026-10-12T00:00:00+00:00",
+    "end_exclusive_utc": "2026-10-19T00:00:00+00:00",
+    "counts": {
+      "visit": 4,
+      "preview": 0,
+      "checkout": 0,
+      "exercise_complete": 0
+    },
+    "sales": {
+      "paid_orders": 0,
+      "gross_cents": 0,
+      "refunded_cents": 0,
+      "net_before_fees_cents": 0,
+      "currency": "usd"
+    },
+    "refund_basis": "Refunds currently applied to orders paid in this week; not refund-date cash flow."
+  },
+  "analytics_started_at": "2026-10-18T05:44:18.175Z",
+  "coverage": "Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.",
+  "event_ratios": {
+    "checkout_starts_per_storefront_view": 0.0,
+    "note_save_actions_per_preview_view": null,
+    "paid_orders_per_storefront_view": 0.0
+  },
+  "processor_fees_cents": null,
+  "net_after_fees_cents": null,
+  "qualitative_feedback_status": "Not collected by analytics. Record only voluntary, de-identified observations in marketing/phase4/feedback-log.csv.",
+  "next_action": "Approve one relevant owned-channel placement. Use the preview and one feedback question. Review after seven days; do not infer a winning segment from QA traffic."
+}
