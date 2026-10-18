@@ -21,7 +21,10 @@ def validate(payload):
         if row['gross_cents']-row['refunded_cents'] != row['net_before_fees_cents']:
             raise ValueError('Totals do not reconcile')
         totals.append({'currency':currency,**{k:row[k] for k in fields}})
-    return {'generated_at':payload['generated_at'],'source':'verified_stripe_webhooks','totals':totals,'fees_included':False}
+    status=payload.get('collection_status','unknown')
+    if status not in ('configured','not_configured','unknown'):
+        raise ValueError('Invalid collection status')
+    return {'generated_at':payload['generated_at'],'source':'verified_stripe_webhooks','collection_status':status,'totals':totals,'fees_included':False}
 
 
 def main():

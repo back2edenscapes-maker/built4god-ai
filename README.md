@@ -37,7 +37,7 @@ python -m built4god --data-dir private --output-dir private/reports record-sale 
 python -m built4god --data-dir private --output-dir private/reports report
 ```
 
-Record only completed real payments. Unique references prevent duplicate entries; currencies total separately. This is a manual ledger, not payment verification, accounting, a payment processor or recurring billing. There are no seeded sales or fabricated earnings.
+Record only completed real payments. Unique references prevent duplicate entries; currencies total separately. This Phase 1 manual ledger is separate from Phase 2's verified webhook ledger. Neither is complete accounting or recurring billing. There are no seeded sales or fabricated earnings.
 
 ## First-sale operating plan
 
@@ -52,4 +52,4 @@ No survey automation, fake engagement, mass messaging, purchases, affiliate enro
 
 ## Current limits
 
-Two broad technology RSS sources provide weak demand signals. Niche discovery, competition assessment and willingness to pay need stronger authorized sources and buyer research. The three starter product categories intentionally limit automated output. Revenue ingestion, refunds, subscriptions, customer delivery and a hosted storefront are not implemented. The system can discover and draft unattended; a legitimate first sale still requires a validated offer and a functioning sales channel.
+Two broad technology RSS sources provide weak demand signals. Niche discovery, competition assessment and willingness to pay need stronger authorized sources and buyer research. The three starter product categories intentionally limit automated output. Phase 2 adds a hosted storefront, verified revenue ingestion, refund revocation, and protected downloads; those features require the Stripe configuration documented in `commerce/OPERATIONS.md`. Subscriptions are not implemented. A legitimate first sale still requires buyer demand and live payment setup.

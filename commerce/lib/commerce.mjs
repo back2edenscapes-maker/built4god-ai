@@ -137,7 +137,7 @@ export async function route(request, env) {
         SUM(MIN(o.amount_cents,COALESCE(r.amount_cents,0))) AS refunded_cents,
         SUM(o.amount_cents-MIN(o.amount_cents,COALESCE(r.amount_cents,0))) AS net_before_fees_cents
         FROM orders o LEFT JOIN refunds r ON r.payment_intent=o.payment_intent WHERE o.livemode=1 GROUP BY currency`).all();
-      return json({generated_at:new Date().toISOString(),source:'verified_stripe_webhooks',totals:rows.results,fees_included:false});
+      return json({generated_at:new Date().toISOString(),source:'verified_stripe_webhooks',collection_status:env.STRIPE_WEBHOOK_SECRET && env.STRIPE_PAYMENT_LINK_ID ? 'configured' : 'not_configured',totals:rows.results,fees_included:false});
     }
   }
   return json({error:'Not found'},404);
