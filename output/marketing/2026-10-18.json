@@ -1,10 +1,8 @@
 {
-  "generated_at": "2026-10-18T05:40:51.072944+00:00",
+  "generated_at": "2026-10-18T05:46:45.638734+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
-  "new_drafts": [
-    "ae54271012a586727a77"
-  ],
+  "new_drafts": [],
   "queue": [
     {
       "id": "ae54271012a586727a77",
@@ -38,7 +36,7 @@
           "title": "Microsoft and CMU team up to train early career software engineers",
           "source": "Hacker News RSS",
           "published": "2026-10-17T18:45:07+00:00",
-          "seen": "2026-10-18T05:40:51.085657+00:00",
+          "seen": "2026-10-18T05:46:45.639134+00:00",
           "niche": "software"
         },
         {
@@ -46,7 +44,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-18T05:40:51.085657+00:00",
+          "seen": "2026-10-18T05:46:45.639134+00:00",
           "niche": "software"
         },
         {
@@ -54,7 +52,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-18T05:40:51.085657+00:00",
+          "seen": "2026-10-18T05:46:45.639134+00:00",
           "niche": "software"
         }
       ],
@@ -267,6 +265,6 @@
   },
   "search_volume": null,
   "search_volume_note": "No authorized keyword-volume provider configured. RSS relevance is not buyer intent.",
-  "quality_status": "draft_ready_for_review",
+  "quality_status": "hold_existing_queue_or_add_new_researched_topic",
   "next_action": "Review one useful draft and destination rules. Obtain owner approval before external publication."
 }
