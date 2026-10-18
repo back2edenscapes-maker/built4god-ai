@@ -1,5 +1,5 @@
 # Weekly customer acquisition scorecard
-2026-10-18T07:24:37.347Z
+2026-10-18T07:26:30.190Z
 
 Week: 2026-10-12T00:00:00+00:00 to 2026-10-19T00:00:00+00:00 (end excluded).
 Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.
@@ -18,7 +18,7 @@ Partial until a full week has elapsed since analytics activation. QA/bots/reload
 | Checkout starts / storefront views | 0.0% |
 | Note saves / preview views | 0.0% |
 
-Ratios are event ratios, not unique-customer funnels. Note-save actions do not prove completed downloads, qualified demand or purchase intent. Source categories are client supplied; segment-level attribution is not collected.
+Ratios are event ratios, not unique-customer funnels. Note-save instrumentation began in Phase 4; earlier actions were not measured. Recorded note-save actions do not prove completed downloads, qualified demand or purchase intent. Source categories are client supplied; segment-level attribution is not collected.
 
 Refunds currently applied to orders paid in this week; not refund-date cash flow.
 
