@@ -68,3 +68,5 @@ test('account-free recovery requires a paid credential, stores only a hash, and 
  await applyEvent(db,event({id:'evt_refund',type:'charge.refunded',data:{object:{payment_intent:'pi_fixture',amount_refunded:900}}}),env);
  assert.equal((await route(req('/api/order',{recovery_code:code}),env)).status,403);
 });
+
+test('weekly scorecard excludes old orders and separates preview completion from page views',async()=>{const db=database();await track(db,'visit','direct');await track(db,'preview','direct');await track(db,'exercise_complete','direct');const old=event({livemode:true});await applyEvent(db,old,{...envBase,STRIPE_MODE:'live'});const report=await growth(db,{ANALYTICS_STARTED_AT:new Date().toISOString()});assert.equal(report.weekly.counts.exercise_complete,1);assert.equal(report.weekly.counts.preview,1);assert.equal(report.sales.paid_orders,1);assert.equal(report.weekly.sales.paid_orders,0);assert.equal((await route(req('/api/analytics',{event:'exercise_complete',source:'direct',buyer:'never_store_me'}),{DB:db})).status,200);assert.equal(JSON.stringify(await growth(db,{})).includes('never_store_me'),false);});

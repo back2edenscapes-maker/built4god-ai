@@ -99,7 +99,7 @@ export async function route(request, env) {
     if(request.headers.get('origin')!==url.origin)return json({error:'Origin not allowed'},403);
     if(request.headers.get('dnt')==='1'||request.headers.get('sec-gpc')==='1')return json({status:'skipped'});
     try{const input=JSON.parse(new TextDecoder().decode(await limitedBody(request,256)));
-      if(!['visit','preview'].includes(input.event)||!SOURCES.includes(input.source))return json({error:'Invalid event'},400);
+      if(!['visit','preview','exercise_complete'].includes(input.event)||!SOURCES.includes(input.source))return json({error:'Invalid event'},400);
       await track(env.DB,input.event,input.source);return json({accepted:true});
     }catch{return json({error:'Analytics unavailable'},503);}
   }

@@ -7,6 +7,7 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlsplit
+from .scorecard import clean_week,write_scorecard
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
     def redirect_request(self,*args,**kwargs):return None
@@ -37,6 +38,7 @@ def sanitize(data):
     if sales['gross_cents']-sales['refunded_cents']!=sales['net_before_fees_cents']:raise ValueError('Totals do not reconcile')
     if sales.get('currency')!='usd':raise ValueError('Unexpected currency')
     counts={k:data['counts'][k] for k in ('visit','preview','checkout')}
+    counts['exercise_complete']=data['counts'].get('exercise_complete',0)
     if any(type(v) is not int or v<0 for v in counts.values()):raise ValueError('Invalid event counts')
     sources={'direct','search','reddit','indiehackers','youtube','pinterest','linkedin','referral','other','owned_social','owned_article'}
     traffic=[]
@@ -44,7 +46,7 @@ def sanitize(data):
         if row['event'] not in counts or row['source'] not in sources or type(row['count']) is not int or row['count']<0:raise ValueError('Invalid aggregate')
         datetime.strptime(row['day'],'%Y-%m-%d');traffic.append({k:row[k] for k in ('day','event','source','count')})
     # Never echo unknown fields from the service, even if it changes in the future.
-    return {'generated_at':data['generated_at'],'analytics_status':data['analytics_status'],'analytics_started_at':data.get('analytics_started_at'),'counts':counts,'traffic':traffic,'sales':{**{k:sales[k] for k in fields},'currency':'usd','processor_fees_cents':None,'net_after_known_fees_cents':None},'order_per_pageview_rate':data.get('order_per_pageview_rate'),'rate_limitations':'Events, not unique people. Bots and reloads affect counts; privacy opt-outs are not measured. Source tags are client supplied. Fees and net after fees are unavailable.','email_status':data.get('email_status','unknown')}
+    return {'generated_at':data['generated_at'],'analytics_status':data['analytics_status'],'analytics_started_at':data.get('analytics_started_at'),'counts':counts,'traffic':traffic,'sales':{**{k:sales[k] for k in fields},'currency':'usd','processor_fees_cents':None,'net_after_known_fees_cents':None},'order_per_pageview_rate':data.get('order_per_pageview_rate'),'rate_limitations':'Events, not unique people. Bots and reloads affect counts; privacy opt-outs are not measured. Source tags are client supplied. Fees and net after fees are unavailable.','email_status':data.get('email_status','unknown'),'weekly':clean_week(data.get('weekly'))}
 
 def main():
     if not os.environ.get('COMMERCE_REPORT_TOKEN'):raise SystemExit('Read-only report access is missing; no metrics inferred.')
@@ -60,6 +62,7 @@ def main():
     for name in ('latest',stamp):(output/f'{name}.json').write_text(json.dumps(result,indent=2),encoding='utf-8')
     c=result['counts'];s=result['sales'];lines=['# BUILT 4 GOD AI — Growth review',result['generated_at'],'',f'Collection: {result["analytics_status"]}. Visits / previews / checkout starts: {c["visit"]} / {c["preview"]} / {c["checkout"]}.',f'Verified live orders: {s["paid_orders"]}. Gross: ${s["gross_cents"]/100:.2f}; refunds: ${s["refunded_cents"]/100:.2f}; before fees: ${s["net_before_fees_cents"]/100:.2f}.','Processor fees and net after fees: unavailable.','',result['rate_limitations'],'',f'Checkout monitor: {"PASS" if ready else "ACTION REQUIRED"}. No payment submitted.','', 'Next review: inspect preview usefulness before changing price; compare channels only after sufficient qualified traffic. Do not infer a winning channel from a small sample.','Email status: '+result['email_status']]
     (output/'latest.md').write_text('\n'.join(lines),encoding='utf-8')
+    if result.get('weekly') is not None:write_scorecard(result,output)
     if datetime.now(timezone.utc).weekday()==0:(output/f'weekly-{stamp}.md').write_text('\n'.join(lines),encoding='utf-8')
     if not ready:raise SystemExit('Checkout monitor needs attention; report saved.')
     print('Growth report saved; live checkout monitor passed. No payment submitted.')

@@ -57,3 +57,7 @@ Two broad technology RSS sources provide weak demand signals. Niche discovery, c
 ## Phase 3 customer experience and growth
 
 Deployed account-free recovery, an interactive preview, privacy-conscious event analytics, and a private growth dashboard. Marketer research/drafting and daily growth reviews run through GitHub Actions. All external content stays subject to human approval. See [Phase 3 operations](PHASE3.md) and the [first-sale campaign](marketing/README.md). Transactional email is implemented but disabled pending a verified dedicated sender; the former support address is flagged for replacement. No live sales are claimed.
+
+## Phase 4 first-customer mission
+
+The free preview now produces a private research note with a next interview question. Public pages have specific metadata and canonicals; access pages carry no-index metadata. The existing growth workflow now maintains a verified weekly acquisition scorecard. See [Phase 4 execution record](PHASE4.md) and [three approval-ready campaigns](marketing/phase4/three-segment-campaigns.md). No campaign has been posted and no first sale is claimed.

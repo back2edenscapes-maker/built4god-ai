@@ -1,5 +1,7 @@
 import { env } from 'cloudflare:workers';
 import { readiness, config } from '../lib/commerce.mjs';
+import {publicMetadata} from '../lib/seo.mjs';
+export const metadata=publicMetadata('/','LaunchReady — Validate Your Software Idea | BUILT 4 GOD AI','A $9 one-time validation and launch kit for solo developers and freelancers. Try the free research-note exercise, then explore the 11 editable files.');
 export const dynamic = 'force-dynamic';
 const contents = [
   ['01', 'A clear path through the uncertainty', 'An offline HTML workbook and Markdown guide take you from a specific buyer problem to a documented launch decision.'],

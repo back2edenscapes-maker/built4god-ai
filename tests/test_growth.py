@@ -25,3 +25,13 @@ class GrowthTests(unittest.TestCase):
   with self.assertRaises(ValueError):sanitize(fixture)
 
 if __name__=='__main__':unittest.main()
+
+class ScorecardTests(unittest.TestCase):
+ def test_weekly_validation_and_zero_denominators(self):
+  from built4god.scorecard import clean_week,write_scorecard
+  week={'start_utc':'2026-10-12T00:00:00Z','end_exclusive_utc':'2026-10-19T00:00:00Z','counts':dict(visit=0,preview=0,checkout=0,exercise_complete=0),'sales':dict(paid_orders=0,gross_cents=0,refunded_cents=0,net_before_fees_cents=0,currency='usd'),'customer_email':'never export'}
+  cleaned=clean_week(week);self.assertNotIn('customer_email',str(cleaned))
+  with tempfile.TemporaryDirectory() as folder:
+   result=write_scorecard({'generated_at':'2026-10-18T00:00:00Z','weekly':cleaned},Path(folder));self.assertIsNone(result['event_ratios']['paid_orders_per_storefront_view'])
+  week['sales']['net_before_fees_cents']=1
+  with self.assertRaises(ValueError):clean_week(week)

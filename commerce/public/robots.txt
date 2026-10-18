@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /delivery
-Disallow: /recover
-Disallow: /growth
 Sitemap: https://built4god-launchready.wearebuilt4god.chatgpt.site/sitemap.xml
