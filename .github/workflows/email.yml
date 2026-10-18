@@ -1,0 +1,24 @@
+name: Transactional email retries
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 * * * *'
+permissions:
+  contents: read
+concurrency:
+  group: built4god-email
+  cancel-in-progress: false
+jobs:
+  retry:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
+    env:
+      COMMERCE_SITE_URL: ${{ vars.COMMERCE_SITE_URL }}
+      COMMERCE_JOB_TOKEN: ${{ secrets.COMMERCE_JOB_TOKEN }}
+      COMMERCE_SITE_SERVICE_TOKEN: ${{ secrets.COMMERCE_SITE_SERVICE_TOKEN }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.0.0
+        with:
+          python-version: '3.12'
+      - run: python -m built4god.email_jobs

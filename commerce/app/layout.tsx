@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Traffic from './traffic';
 
 export const metadata: Metadata = {
   title: "LaunchReady | BUILT 4 GOD AI",
@@ -17,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased">{children}<Traffic/></body>
     </html>
   );
 }

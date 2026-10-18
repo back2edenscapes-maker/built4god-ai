@@ -8,7 +8,7 @@ The storefront is a Sites-hosted Vinext application. Its private D1 database and
 - Live price: USD 9.00, one time
 - Product: original rebuilt software validation and launch kit, 11 files
 - The referenced Phase 2 attachment was unavailable; no claims are made about its contents.
-- Support: `back2edenscapes@gmail.com`
+- Support: dedicated BUILT 4 GOD AI contact pending verification; previous contact removed from active storefront and checkout text.
 - Storefront: https://built4god-launchready.wearebuilt4god.chatgpt.site
 - No verified sales or validated willingness to pay at initial deployment.
 
@@ -48,7 +48,7 @@ Upload the approved ZIP using authenticated `PUT /api/admin/product` with `Autho
 
 After payment confirmation the browser POSTs its session reference to `/api/order` and `/api/download`. The database stores only its SHA-256 hash. The browser moves the return reference from its query string into a fragment, suppresses referrers, and sends it in request bodies. Bookmarking that private return link provides repeat access. Refunds revoke future downloads. The public sample is separate from paid delivery.
 
-No automatic product email is sent by this version. Stripe payment receipts and return-page access must be clearly distinguished. If a buyer loses their return link, support can locate their Checkout Session in Stripe and provide the matching private delivery link after verifying ownership. Future receipt-email delivery requires a separately configured email service and consent-sensitive handling.
+No automatic product email is currently sent. Phase 3 adds a gated email queue and account-free recovery codes; see PHASE3.md. Stripe payment receipts and return-page access must be clearly distinguished. If a buyer loses their return link, support can locate their Checkout Session in Stripe and provide the matching private delivery link after verifying ownership. Future receipt-email delivery requires a separately configured email service and consent-sensitive handling.
 
 ## Revenue reporting
 
@@ -80,3 +80,5 @@ On 2026-10-18, the owner granted Wearebuilt4god live-mode access. Stripe reporte
 The public health endpoint reports `checkout_ready=true` and mode `live`. The storefront button was verified in a browser to open https://buy.stripe.com/4gM3cvaiU8Irb3J7G99Zm00 with the LaunchReady product and USD 9.00 total. Stripe currently displays its existing seller name, Cory Brown. No live payment was submitted, so end-to-end live fulfillment remains unproven until the first real order. The actual sandbox payment and refund remain excluded from revenue. The daily reporting workflow succeeded after the live deployment and returned no live orders.
 
 Live configuration references (public identifiers only): product `prod_VSi6pBSij0t1o5`, price `price_1URmgMGHTpYuGSF0TDNlSzkk`, Payment Link `plink_1URmgQGHTpYuGSF0OBqjKHvQ`, webhook `we_1URmgUGHTpYuGSF0jgvqK5rB`. The webhook subscribes to completed checkout, asynchronous payment success, and charge refunds, using snapshot API version `2026-09-30.endive`. Automatic tax is not enabled and no tax registration has been inferred. Standard payment processing fees apply to actual transactions; revenue reports exclude fees. No automatic messages, advertisements, or sales claims are generated.
+
+Phase 3 supersedes the support and delivery details above: see [current customer experience](../PHASE3.md). Do not reuse any former Back 2 Eden contact.

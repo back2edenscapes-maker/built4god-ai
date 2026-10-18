@@ -53,3 +53,7 @@ No survey automation, fake engagement, mass messaging, purchases, affiliate enro
 ## Current limits
 
 Two broad technology RSS sources provide weak demand signals. Niche discovery, competition assessment and willingness to pay need stronger authorized sources and buyer research. The three starter product categories intentionally limit automated output. Phase 2 adds a hosted storefront, verified revenue ingestion, refund revocation, and protected downloads, with live payment configuration documented in `commerce/OPERATIONS.md`. Subscriptions are not implemented. A legitimate first sale still requires buyer demand; payment infrastructure alone is not validation.
+
+## Phase 3 customer experience and growth
+
+Deployed account-free recovery, an interactive preview, privacy-conscious event analytics, and a private growth dashboard. Marketer research/drafting and daily growth reviews run through GitHub Actions. All external content stays subject to human approval. See [Phase 3 operations](PHASE3.md) and the [first-sale campaign](marketing/README.md). Transactional email is implemented but disabled pending a verified dedicated sender; the former support address is flagged for replacement. No live sales are claimed.

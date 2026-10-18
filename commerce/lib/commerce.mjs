@@ -1,3 +1,5 @@
+import {emailReady,queueEmail,flushEmails,accessOrder,recover,recoveryOrder,createRecoveryCode} from './customer.mjs';
+import {track,growth,SOURCES} from './analytics.mjs';
 const encoder = new TextEncoder();
 export const SKU = 'launchready-v1';
 export const securityHeaders = {
@@ -37,7 +39,7 @@ export async function readiness(env) {
   if (!/^plink_/.test(env.STRIPE_PAYMENT_LINK_ID || '')) issues.push('payment_link_unconfigured');
   if (!env.STRIPE_WEBHOOK_SECRET?.startsWith('whsec_')) issues.push('webhook_unconfigured');
   if (!['live','test'].includes(env.STRIPE_MODE)) issues.push('mode_unconfigured');
-  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(env.SUPPORT_EMAIL || '')) issues.push('support_unconfigured');
+  if (env.SUPPORT_MODE!=='pending' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(env.SUPPORT_EMAIL || '')) issues.push('support_unconfigured');
   if (!env.DB) issues.push('database_unconfigured');
   else {try{await env.DB.prepare('SELECT session_hash FROM orders LIMIT 1').first();}catch{issues.push('database_not_ready');}}
   if (!/^[a-f0-9]{64}$/.test(env.PRODUCT_SHA256 || '')) issues.push('product_hash_unconfigured');
@@ -58,6 +60,7 @@ export async function applyEvent(db, event, env) {
         object.metadata?.sku !== SKU || !/^cs_(test_|live_)/.test(object.id || '') || typeof object.payment_intent !== 'string') return {ignored:true};
     statements.push(db.prepare(`INSERT INTO orders(session_hash,payment_intent,amount_cents,currency,paid_at,livemode)
       VALUES(?,?,?,?,?,?) ON CONFLICT(session_hash) DO NOTHING`).bind(await digest(object.id),object.payment_intent,object.amount_subtotal,object.currency,event.created,Number(event.livemode)));
+    statements.push(db.prepare('INSERT INTO order_sources(order_hash,source) VALUES(?,?) ON CONFLICT(order_hash) DO NOTHING').bind(await digest(object.id),SOURCES.includes(object.client_reference_id)?object.client_reference_id:'unknown'));
   } else if (event.type === 'charge.refunded') {
     if (typeof object.payment_intent !== 'string' || !Number.isSafeInteger(object.amount_refunded) || object.amount_refunded <= 0) return {ignored:true};
     statements.push(db.prepare(`INSERT INTO refunds(payment_intent,amount_cents) VALUES(?,?)
@@ -66,6 +69,10 @@ export async function applyEvent(db, event, env) {
   statements.push(db.prepare('INSERT INTO receipts(event_id,event_type,received_at) VALUES(?,?,?) ON CONFLICT(event_id) DO NOTHING').bind(event.id,event.type,Math.floor(Date.now()/1000)));
   // D1 batch executes atomically. Order uniqueness and MAX refund make retries safe.
   await db.batch(statements);
+  if(['checkout.session.completed','checkout.session.async_payment_succeeded'].includes(event.type) && emailReady(env)){
+    const hash=await digest(object.id);
+    await queueEmail(db,env,hash,object.customer_details?.email||object.customer_email,`purchase-${hash}`);
+  }
   return {accepted:true};
 }
 export async function findOrder(db, session) {
@@ -75,7 +82,7 @@ export async function findOrder(db, session) {
 }
 async function admin(request,env) {
   const received=request.headers.get('authorization');
-  const token=new URL(request.url).pathname==='/api/admin/revenue' ? env.REPORT_TOKEN : env.ADMIN_TOKEN;
+  const token=['/api/admin/revenue','/api/admin/growth'].includes(new URL(request.url).pathname) ? env.REPORT_TOKEN : env.ADMIN_TOKEN;
   if (!token || !received) return false;
   return (await digest(received)) === (await digest(`Bearer ${token}`));
 }
@@ -88,6 +95,23 @@ async function limitedBody(request,limit) {
 }
 export async function route(request, env) {
   const url=new URL(request.url);
+  if(url.pathname==='/api/analytics' && request.method==='POST'){
+    if(request.headers.get('origin')!==url.origin)return json({error:'Origin not allowed'},403);
+    if(request.headers.get('dnt')==='1'||request.headers.get('sec-gpc')==='1')return json({status:'skipped'});
+    try{const input=JSON.parse(new TextDecoder().decode(await limitedBody(request,256)));
+      if(!['visit','preview'].includes(input.event)||!SOURCES.includes(input.source))return json({error:'Invalid event'},400);
+      await track(env.DB,input.event,input.source);return json({accepted:true});
+    }catch{return json({error:'Analytics unavailable'},503);}
+  }
+  if(url.pathname==='/api/recover' && request.method==='POST'){
+    if(request.headers.get('origin')!==url.origin)return json({error:'Origin not allowed'},403);
+    if(!emailReady(env))return json({status:'not_configured',message:'Automatic email is not configured. Use your saved private recovery code or original checkout reference. A dedicated BUILT 4 GOD AI support address is awaiting verification.'},503);
+    try{const input=JSON.parse(new TextDecoder().decode(await limitedBody(request,1024)));const result=await recover(env.DB,env,input.email,request.headers.get('cf-connecting-ip')||'unknown');await flushEmails(env.DB,env);return json(result,202);}catch{return json({error:'Unable to process recovery. Please contact support.'},503);}
+  }
+  if(url.pathname==='/api/jobs/email' && request.method==='POST'){
+    if(!env.JOB_TOKEN||await digest(request.headers.get('authorization')||'')!==await digest(`Bearer ${env.JOB_TOKEN}`))return json({error:'Unauthorized'},401);
+    return json(await flushEmails(env.DB,env));
+  }
   if (url.pathname === '/api/health' && request.method === 'GET') {
     const state=await readiness(env);
     return json({service:'BUILT 4 GOD AI',checkout_ready:state.ready,mode:env.STRIPE_MODE || 'unconfigured'});
@@ -96,7 +120,14 @@ export async function route(request, env) {
     if (request.headers.get('origin') !== url.origin) return json({error:'Origin not allowed'},403);
     const state=await readiness(env);
     if (!state.ready) return json({error:'Checkout is not open yet. You have not been charged.'},503);
-    return new Response(null,{status:303,headers:{...securityHeaders,Location:env.STRIPE_PAYMENT_LINK_URL}});
+    let source='direct';
+    if(request.headers.get('dnt')!=='1'&&request.headers.get('sec-gpc')!=='1'){
+      try{const body=new URLSearchParams(new TextDecoder().decode(await limitedBody(request,256)));if(SOURCES.includes(body.get('source')))source=body.get('source');}catch{}
+      // Analytics is best effort; failure must not break a purchase.
+      try{await track(env.DB,'checkout',source);}catch{}
+    }
+    const checkout=new URL(env.STRIPE_PAYMENT_LINK_URL);if(source!=='direct')checkout.searchParams.set('client_reference_id',source);
+    return new Response(null,{status:303,headers:{...securityHeaders,Location:checkout.href}});
   }
   if (url.pathname === '/api/stripe/webhook' && request.method === 'POST') {
     if (!env.DB || !env.STRIPE_WEBHOOK_SECRET) return json({error:'Webhook not configured'},503);
@@ -104,16 +135,22 @@ export async function route(request, env) {
     let raw;try{raw=new TextDecoder().decode(await limitedBody(request,1000000));}catch{return json({error:'Too large'},413);}
     if (!await verifySignature(raw,request.headers.get('stripe-signature'),env.STRIPE_WEBHOOK_SECRET)) return json({error:'Invalid signature'},400);
     let event;try {event=JSON.parse(raw);} catch {return json({error:'Invalid payload'},400);}
-    try {return json(await applyEvent(env.DB,event,env));} catch {return json({error:'Temporary processing failure; retry required'},500);}
+    try {const result=await applyEvent(env.DB,event,env);if(result.accepted)await flushEmails(env.DB,env);return json(result);} catch {return json({error:'Temporary processing failure; retry required'},500);}
   }
-  if (['/api/order','/api/download'].includes(url.pathname) && request.method === 'POST') {
+  if (['/api/order','/api/download','/api/recovery-code'].includes(url.pathname) && request.method === 'POST') {
     if (request.headers.get('origin') !== url.origin) return json({error:'Origin not allowed'},403);
     if (!env.DB) return json({error:'Delivery is not configured'},503);
     let input;try {input=JSON.parse(new TextDecoder().decode(await limitedBody(request,2048)));} catch {return json({error:'Invalid request'},400);}
-    const order=await findOrder(env.DB,input.session_id);
+    const order=input.recovery_code?await recoveryOrder(env.DB,input.recovery_code):input.access_token?await accessOrder(env.DB,input.access_token):await findOrder(env.DB,input.session_id);
+    if(input.recovery_code&&!order)return json({status:'invalid',message:'That recovery code could not be verified. Check your saved code or use your original checkout reference.'},403);
+    if(input.access_token&&!order)return json({status:'expired',message:'This access link is invalid or expired. Request a new link using your checkout email.'},403);
     if (!order) return json({status:'pending',message:'Payment confirmation has not arrived yet. Retry after a few seconds.'},202);
     if (order.refunded > 0) return json({status:'revoked',message:'This order was refunded. Contact support for help.'},403);
     if (order.livemode !== Number(config(env).live)) return json({status:'unavailable'},403);
+    if(url.pathname==='/api/recovery-code'){
+      const code=await createRecoveryCode(env.DB,order.session_hash);
+      return code?json({code,message:'Save this code privately. It is shown once and can recover access without an account. Refunds revoke it.'}):json({message:'A recovery code has already been issued for this purchase. Use your saved code or keep your original checkout link.'},409);
+    }
     if (url.pathname === '/api/order') return json({status:'paid',product:SKU});
     const file=await env.BUCKET?.get(`${SKU}.zip`);
     if (!file || file.customMetadata?.sha256!==env.PRODUCT_SHA256) return json({error:'File temporarily unavailable. Contact support.'},503);
@@ -121,7 +158,8 @@ export async function route(request, env) {
   }
   if (url.pathname.startsWith('/api/admin/')) {
     if (!await admin(request,env)) return json({error:'Unauthorized'},401);
-    if (url.pathname === '/api/admin/status' && request.method === 'GET') return json(await readiness(env));
+    if (url.pathname === '/api/admin/status' && request.method === 'GET') return json({...await readiness(env),email_ready:emailReady(env)});
+    if (url.pathname === '/api/admin/growth' && request.method === 'GET') return json(await growth(env.DB,env));
     if (url.pathname === '/api/admin/product' && request.method === 'PUT') {
       if (!env.BUCKET || !env.PRODUCT_SHA256) return json({error:'Storage or product hash not configured'},503);
       if (Number(request.headers.get('content-length') || 0)>10000000) return json({error:'Too large'},413);

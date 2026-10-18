@@ -1,0 +1,31 @@
+relative_day,asset_or_task,channel,publication_status,evidence_to_record
+1,Approve positioning A and consenting peer preview,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+2,Approve social post 1,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+3,Review questions and mobile preview,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+4,Record sanitized demo,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+5,Check SideProject local rules and approval,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+6,Review checkout health and measured events,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+7,Weekly decision and missing evidence,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+8,Review article 1 facts,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+9,Approve article 1 for owned site,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+10,Prepare social post 2,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+11,Review search crawlability,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+12,Check Indie Hackers current rules,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+13,Approve one eligible demonstration placement,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+14,Weekly report and objection review,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+15,Review freelancer task hypothesis,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+16,Prepare positioning B experiment,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+17,Approve social post 3,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+18,Review article 2 against live delivery,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+19,Approve article 2 for owned site,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+20,Review opt-in questions,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+21,Weekly report and known fees status,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+22,Research one owner-selected consenting partnership,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+23,Prepare social post 4,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+24,Review Pinterest rules and existing account,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+25,Prepare original checklist visual,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+26,Approve social post 5,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+27,Review complete qualified-visitor path,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+28,Weekly report and refunds/support,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
+29,Compare evidence across approved placements,owned or explicitly approved eligible channel,draft_requires_approval,actual URL/time if published; measured data or unknown; anonymous feedback
+30,Continue revise or stop decision,owned or explicitly approved eligible channel,internal_review,actual URL/time if published; measured data or unknown; anonymous feedback
