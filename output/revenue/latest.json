@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-10-18T05:12:01.980Z",
+  "generated_at": "2026-10-18T05:14:10.114Z",
   "source": "verified_stripe_webhooks",
+  "collection_status": "not_configured",
   "totals": [],
   "fees_included": false
 }
