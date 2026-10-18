@@ -71,4 +71,8 @@ The commerce tests use an isolated in-memory SQLite database and explicit fictio
 
 For full application builds, install the locked dependencies in `commerce/` and follow the Sites workflow. The checked-in migration history is immutable after deployment. Append schema migrations for changes. Never initialize production tables during a web request.
 
-The storefront and free sample are public, as authorized by the owner. The paid ZIP remains in private R2 storage and the admin endpoints remain credential-protected. Public anonymous health access has been verified. Stripe checkout remains closed pending account reconnection, Payment Link creation, endpoint configuration, and an external sandbox payment test. No automatic messages, advertisements, purchases, or sales claims are generated.
+The storefront and free sample are public, as authorized by the owner. The paid ZIP remains in private R2 storage and the admin endpoints remain credential-protected. Public anonymous health access has been verified.
+
+On 2026-10-18, the dedicated “BUILT 4 GOD AI — LaunchReady QA” Stripe sandbox completed a USD 9.00 test checkout through its hosted Payment Link. A real signed Stripe webhook unlocked the delivery page. The downloaded ZIP passed archive integrity validation and matched the approved SHA-256 above. The sandbox payment was then fully refunded; the hosted order endpoint returned HTTP 403 with status `revoked`. This was a sandbox transaction, not a sale or revenue. No customer payment was charged.
+
+The sandbox Payment Link and webhook are configured in the hosted runtime. Storefront checkout remains closed (`LIVE_SALES_ENABLED=false`) pending permission to access Wearebuilt4god live mode, account eligibility verification, and separate live Payment Link and webhook configuration. The connected Stripe session currently exposes only test environments. No automatic messages, advertisements, or sales claims are generated.

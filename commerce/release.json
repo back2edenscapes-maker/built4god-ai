@@ -8,6 +8,7 @@
   "sha256": "ca4ceec247340f79739d8112ae8cec2480d77991608bf81583cee1823203d8c1",
   "provenance": "Original rebuilt product; Phase 2 attachment unavailable",
   "validation": "No verified sales or buyer validation yet",
-  "checkout_status": "requires_Stripe_configuration",
+  "checkout_status": "sandbox_verified_live_account_access_pending",
+  "sandbox_validation": {"date": "2026-10-18", "payment": "passed", "webhook_delivery": "passed", "download_checksum": "passed", "full_refund": "passed", "refund_access_revocation": "passed", "counts_as_revenue": false},
   "product_bytes": "private_R2_only"
 }
