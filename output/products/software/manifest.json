@@ -1,0 +1,31 @@
+{
+  "status": "draft_needs_review",
+  "opportunity": {
+    "id": "software",
+    "title": "Small software project launch toolkit",
+    "score": 17,
+    "dimensions_1_to_5": {
+      "startup_cost": 5,
+      "competition": 1,
+      "automation_feasibility": 4,
+      "potential_revenue": 1,
+      "speed_to_launch": 5
+    },
+    "demand_signal_count": 1,
+    "competition_status": "unverified",
+    "revenue_status": "unverified",
+    "startup_cost_usd": 0,
+    "evidence": [
+      {
+        "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+        "title": "Microsoft and CMU team up to train early career software engineers",
+        "source": "Hacker News RSS",
+        "published": "2026-10-17T18:45:07+00:00",
+        "seen": "2026-10-18T04:45:35.688698+00:00",
+        "niche": "software"
+      }
+    ],
+    "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+  },
+  "published": false
+}

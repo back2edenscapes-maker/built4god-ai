@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-10-18T04:46:10.556542+00:00",
+  "opportunities": [
+    {
+      "id": "software",
+      "title": "Small software project launch toolkit",
+      "score": 19,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 3,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+          "title": "Microsoft and CMU team up to train early career software engineers",
+          "source": "Hacker News RSS",
+          "published": "2026-10-17T18:45:07+00:00",
+          "seen": "2026-10-18T04:45:35.688698+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+          "title": "The next developer interface is ambient intelligence",
+          "source": "GitHub Blog",
+          "published": "2026-10-15T19:39:27+00:00",
+          "seen": "2026-10-18T04:45:50.374825+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "title": "Secret protection must scale with software",
+          "source": "GitHub Blog",
+          "published": "2026-10-07T17:45:34+00:00",
+          "seen": "2026-10-18T04:45:50.374825+00:00",
+          "niche": "software"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    }
+  ],
+  "source_errors": [
+    {
+      "source": "Hacker News RSS",
+      "error": "URLError: <urlopen error timed out>"
+    }
+  ],
+  "verified_manual_revenue": [],
+  "note": "Heuristic leads, not validated businesses or earnings forecasts."
+}
