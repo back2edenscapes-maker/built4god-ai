@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-10-18T07:23:48.811Z",
+  "generated_at": "2026-10-18T07:24:37.347Z",
   "analytics_status": "collecting",
   "analytics_started_at": "2026-10-18T05:44:18.175Z",
   "counts": {
-    "visit": 3,
-    "preview": 0,
+    "visit": 4,
+    "preview": 1,
     "checkout": 0,
     "exercise_complete": 0
   },
   "traffic": [
     {
       "day": "2026-10-18",
+      "event": "preview",
+      "source": "direct",
+      "count": 1
+    },
+    {
+      "day": "2026-10-18",
       "event": "visit",
       "source": "direct",
-      "count": 3
+      "count": 4
     }
   ],
   "sales": {
@@ -33,7 +39,7 @@
     "end_exclusive_utc": "2026-10-19T00:00:00+00:00",
     "counts": {
       "visit": 4,
-      "preview": 0,
+      "preview": 1,
       "checkout": 0,
       "exercise_complete": 0
     },
