@@ -71,4 +71,4 @@ The commerce tests use an isolated in-memory SQLite database and explicit fictio
 
 For full application builds, install the locked dependencies in `commerce/` and follow the Sites workflow. The checked-in migration history is immutable after deployment. Append schema migrations for changes. Never initialize production tables during a web request.
 
-The site initially remains owner-private. Public launch requires an explicit audience change, then an external checkout/webhook test. No automatic messages, advertisements, purchases, or sales claims are generated.
+The storefront and free sample are public, as authorized by the owner. The paid ZIP remains in private R2 storage and the admin endpoints remain credential-protected. Public anonymous health access has been verified. Stripe checkout remains closed pending account reconnection, Payment Link creation, endpoint configuration, and an external sandbox payment test. No automatic messages, advertisements, purchases, or sales claims are generated.
