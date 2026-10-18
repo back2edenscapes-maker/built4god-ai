@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T05:15:07.314Z",
+  "generated_at": "2026-10-18T05:26:04.725Z",
   "source": "verified_stripe_webhooks",
-  "collection_status": "not_configured",
+  "collection_status": "configured",
   "totals": [],
   "fees_included": false
 }
