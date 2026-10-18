@@ -2,7 +2,7 @@
 
 ## Phase 2 commerce
 
-The LaunchReady storefront, verified Stripe webhook handler, private file delivery, refund revocation, and daily aggregate revenue reporting are implemented under `commerce/`. Read [commerce operations](commerce/OPERATIONS.md) for the exact deployment state, required Stripe configuration, and tests. Storefront: https://built4god-launchready.wearebuilt4god.chatgpt.site. Payment acceptance remains closed until the existing Stripe account is reconnected and its Payment Link and webhook are configured. No verified sales are claimed.
+The LaunchReady storefront, verified Stripe webhook handler, private file delivery, refund revocation, and daily aggregate revenue reporting are implemented under `commerce/`. Read [commerce operations](commerce/OPERATIONS.md) for the exact deployment state, Stripe configuration, and tests. Storefront: https://built4god-launchready.wearebuilt4god.chatgpt.site. Live USD 9.00 one-time checkout is open through the owner's Wearebuilt4god Stripe account. Sandbox payment, signed webhook delivery, download integrity, and refund revocation passed end to end. No verified sales are claimed.
 
 **Built With Purpose. Powered by Intelligence. Guided by Faith.**
 
@@ -52,4 +52,4 @@ No survey automation, fake engagement, mass messaging, purchases, affiliate enro
 
 ## Current limits
 
-Two broad technology RSS sources provide weak demand signals. Niche discovery, competition assessment and willingness to pay need stronger authorized sources and buyer research. The three starter product categories intentionally limit automated output. Phase 2 adds a hosted storefront, verified revenue ingestion, refund revocation, and protected downloads; those features require the Stripe configuration documented in `commerce/OPERATIONS.md`. Subscriptions are not implemented. A legitimate first sale still requires buyer demand and live payment setup.
+Two broad technology RSS sources provide weak demand signals. Niche discovery, competition assessment and willingness to pay need stronger authorized sources and buyer research. The three starter product categories intentionally limit automated output. Phase 2 adds a hosted storefront, verified revenue ingestion, refund revocation, and protected downloads, with live payment configuration documented in `commerce/OPERATIONS.md`. Subscriptions are not implemented. A legitimate first sale still requires buyer demand; payment infrastructure alone is not validation.

@@ -5,7 +5,7 @@ The storefront is a Sites-hosted Vinext application. Its private D1 database and
 ## Current release
 
 - SKU: `launchready-v1`
-- Proposed price: USD 9.00, one time
+- Live price: USD 9.00, one time
 - Product: original rebuilt software validation and launch kit, 11 files
 - The referenced Phase 2 attachment was unavailable; no claims are made about its contents.
 - Support: `back2edenscapes@gmail.com`
@@ -75,4 +75,8 @@ The storefront and free sample are public, as authorized by the owner. The paid 
 
 On 2026-10-18, the dedicated “BUILT 4 GOD AI — LaunchReady QA” Stripe sandbox completed a USD 9.00 test checkout through its hosted Payment Link. A real signed Stripe webhook unlocked the delivery page. The downloaded ZIP passed archive integrity validation and matched the approved SHA-256 above. The sandbox payment was then fully refunded; the hosted order endpoint returned HTTP 403 with status `revoked`. This was a sandbox transaction, not a sale or revenue. No customer payment was charged.
 
-The sandbox Payment Link and webhook are configured in the hosted runtime. Storefront checkout remains closed (`LIVE_SALES_ENABLED=false`) pending permission to access Wearebuilt4god live mode, account eligibility verification, and separate live Payment Link and webhook configuration. The connected Stripe session currently exposes only test environments. No automatic messages, advertisements, or sales claims are generated.
+On 2026-10-18, the owner granted Wearebuilt4god live-mode access. Stripe reported `charges_enabled=true`, `payouts_enabled=true`, and no currently due requirements. A separate live product, USD 9.00 one-time price, fixed-quantity Payment Link, and live snapshot webhook were created. The live signing secret was transferred directly into Sites secret environment storage. Environment revision 7 was deployed successfully using the previously tested application version. `STRIPE_MODE=live` and `LIVE_SALES_ENABLED=true` are active.
+
+The public health endpoint reports `checkout_ready=true` and mode `live`. The storefront button was verified in a browser to open https://buy.stripe.com/4gM3cvaiU8Irb3J7G99Zm00 with the LaunchReady product and USD 9.00 total. Stripe currently displays its existing seller name, Cory Brown. No live payment was submitted, so end-to-end live fulfillment remains unproven until the first real order. The actual sandbox payment and refund remain excluded from revenue. The daily reporting workflow succeeded after the live deployment and returned no live orders.
+
+Live configuration references (public identifiers only): product `prod_VSi6pBSij0t1o5`, price `price_1URmgMGHTpYuGSF0TDNlSzkk`, Payment Link `plink_1URmgQGHTpYuGSF0OBqjKHvQ`, webhook `we_1URmgUGHTpYuGSF0jgvqK5rB`. The webhook subscribes to completed checkout, asynchronous payment success, and charge refunds, using snapshot API version `2026-09-30.endive`. Automatic tax is not enabled and no tax registration has been inferred. Standard payment processing fees apply to actual transactions; revenue reports exclude fees. No automatic messages, advertisements, or sales claims are generated.
