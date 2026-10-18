@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T12:51:43.152249+00:00",
+  "generated_at": "2026-10-18T18:46:34.768768+00:00",
   "opportunities": [
     {
       "id": "software",
       "title": "Small software project launch toolkit",
-      "score": 19,
+      "score": 21,
       "dimensions_1_to_5": {
         "startup_cost": 5,
         "competition": 1,
@@ -12,11 +12,27 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 3,
+      "demand_signal_count": 5,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software",
+          "title": "Someone behind the software",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T16:32:00+00:00",
+          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes",
+          "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T10:21:51+00:00",
+          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
           "title": "Microsoft and CMU team up to train early career software engineers",
@@ -30,7 +46,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-18T12:51:37.657039+00:00",
+          "seen": "2026-10-18T18:46:34.508407+00:00",
           "niche": "software"
         },
         {
@@ -38,7 +54,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-18T12:51:37.657039+00:00",
+          "seen": "2026-10-18T18:46:34.508407+00:00",
           "niche": "software"
         }
       ],
