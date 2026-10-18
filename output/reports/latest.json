@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T06:55:34.170212+00:00",
+  "generated_at": "2026-10-18T12:51:43.152249+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -22,7 +22,7 @@
           "title": "Microsoft and CMU team up to train early career software engineers",
           "source": "Hacker News RSS",
           "published": "2026-10-17T18:45:07+00:00",
-          "seen": "2026-10-18T06:55:31.305329+00:00",
+          "seen": "2026-10-18T12:51:37.657039+00:00",
           "niche": "software"
         },
         {
@@ -30,7 +30,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-18T06:55:31.305329+00:00",
+          "seen": "2026-10-18T12:51:37.657039+00:00",
           "niche": "software"
         },
         {
@@ -38,7 +38,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-18T06:55:31.305329+00:00",
+          "seen": "2026-10-18T12:51:37.657039+00:00",
           "niche": "software"
         }
       ],
