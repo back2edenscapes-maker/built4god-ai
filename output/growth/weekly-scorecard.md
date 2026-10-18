@@ -1,12 +1,12 @@
 # Weekly customer acquisition scorecard
-2026-10-18T07:26:30.190Z
+2026-10-18T08:43:17.847Z
 
 Week: 2026-10-12T00:00:00+00:00 to 2026-10-19T00:00:00+00:00 (end excluded).
 Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.
 
 | Metric | Verified value |
 |---|---|
-| Storefront pageview events | 4 |
+| Storefront pageview events | 6 |
 | Preview pageview events | 1 |
 | Research-note save actions | 0 |
 | Checkout starts | 0 |
