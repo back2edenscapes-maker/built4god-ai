@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-10-18T08:43:12.240239+00:00",
+  "generated_at": "2026-10-19T08:52:40.894301+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
-  "new_drafts": [],
+  "new_drafts": [
+    "05dfa1c7983acc4ebe9b"
+  ],
   "queue": [
     {
       "id": "ae54271012a586727a77",
       "topic": "recent-task",
       "path": "output/marketing/drafts/ae54271012a586727a77.md",
       "created": "2026-10-18T05:40:51.072944+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "05dfa1c7983acc4ebe9b",
+      "topic": "alternatives",
+      "path": "output/marketing/drafts/05dfa1c7983acc4ebe9b.md",
+      "created": "2026-10-19T08:52:40.894301+00:00",
       "status": "review_required",
       "published_url": null
     }
@@ -18,7 +28,7 @@
     {
       "id": "software",
       "title": "Small software project launch toolkit",
-      "score": 19,
+      "score": 20,
       "dimensions_1_to_5": {
         "startup_cost": 5,
         "competition": 1,
@@ -26,11 +36,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 3,
+      "demand_signal_count": 4,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time",
+          "title": "Personal software factories are a waste of time",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T19:02:11+00:00",
+          "seen": "2026-10-19T08:52:40.894742+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
           "title": "Microsoft and CMU team up to train early career software engineers",
@@ -44,7 +62,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-18T08:43:12.240666+00:00",
+          "seen": "2026-10-19T08:52:40.894742+00:00",
           "niche": "software"
         },
         {
@@ -52,7 +70,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-18T08:43:12.240666+00:00",
+          "seen": "2026-10-19T08:52:40.894742+00:00",
           "niche": "software"
         }
       ],
@@ -265,6 +283,6 @@
   },
   "search_volume": null,
   "search_volume_note": "No authorized keyword-volume provider configured. RSS relevance is not buyer intent.",
-  "quality_status": "hold_existing_queue_or_add_new_researched_topic",
+  "quality_status": "draft_ready_for_review",
   "next_action": "Review one useful draft and destination rules. Obtain owner approval before external publication."
 }

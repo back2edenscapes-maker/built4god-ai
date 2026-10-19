@@ -1,13 +1,13 @@
 # Weekly customer acquisition scorecard
-2026-10-18T08:43:17.847Z
+2026-10-19T08:52:44.839Z
 
-Week: 2026-10-12T00:00:00+00:00 to 2026-10-19T00:00:00+00:00 (end excluded).
+Week: 2026-10-19T00:00:00+00:00 to 2026-10-26T00:00:00+00:00 (end excluded).
 Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.
 
 | Metric | Verified value |
 |---|---|
-| Storefront pageview events | 6 |
-| Preview pageview events | 1 |
+| Storefront pageview events | 0 |
+| Preview pageview events | 0 |
 | Research-note save actions | 0 |
 | Checkout starts | 0 |
 | Paid live orders in this week | 0 |
@@ -15,8 +15,8 @@ Partial until a full week has elapsed since analytics activation. QA/bots/reload
 | Refunds applied to those orders | $0.00 |
 | Net before fees | $0.00 |
 | Processor fees / net after fees | Unavailable |
-| Checkout starts / storefront views | 0.0% |
-| Note saves / preview views | 0.0% |
+| Checkout starts / storefront views | Unavailable (zero denominator) |
+| Note saves / preview views | Unavailable (zero denominator) |
 
 Ratios are event ratios, not unique-customer funnels. Note-save instrumentation began in Phase 4; earlier actions were not measured. Recorded note-save actions do not prove completed downloads, qualified demand or purchase intent. Source categories are client supplied; segment-level attribution is not collected.
 

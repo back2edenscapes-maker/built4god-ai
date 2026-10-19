@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T08:43:17.847Z",
+  "generated_at": "2026-10-19T08:52:44.839Z",
   "analytics_status": "collecting",
   "analytics_started_at": "2026-10-18T05:44:18.175Z",
   "counts": {
@@ -35,11 +35,11 @@
   "rate_limitations": "Events, not unique people. Bots and reloads affect counts; privacy opt-outs are not measured. Source tags are client supplied. Fees and net after fees are unavailable.",
   "email_status": "disabled",
   "weekly": {
-    "start_utc": "2026-10-12T00:00:00+00:00",
-    "end_exclusive_utc": "2026-10-19T00:00:00+00:00",
+    "start_utc": "2026-10-19T00:00:00+00:00",
+    "end_exclusive_utc": "2026-10-26T00:00:00+00:00",
     "counts": {
-      "visit": 6,
-      "preview": 1,
+      "visit": 0,
+      "preview": 0,
       "checkout": 0,
       "exercise_complete": 0
     },

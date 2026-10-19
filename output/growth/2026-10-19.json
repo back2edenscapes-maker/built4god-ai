@@ -1,0 +1,62 @@
+{
+  "generated_at": "2026-10-19T08:52:44.839Z",
+  "analytics_status": "collecting",
+  "analytics_started_at": "2026-10-18T05:44:18.175Z",
+  "counts": {
+    "visit": 6,
+    "preview": 1,
+    "checkout": 0,
+    "exercise_complete": 0
+  },
+  "traffic": [
+    {
+      "day": "2026-10-18",
+      "event": "preview",
+      "source": "direct",
+      "count": 1
+    },
+    {
+      "day": "2026-10-18",
+      "event": "visit",
+      "source": "direct",
+      "count": 6
+    }
+  ],
+  "sales": {
+    "paid_orders": 0,
+    "gross_cents": 0,
+    "refunded_cents": 0,
+    "net_before_fees_cents": 0,
+    "currency": "usd",
+    "processor_fees_cents": null,
+    "net_after_known_fees_cents": null
+  },
+  "order_per_pageview_rate": 0,
+  "rate_limitations": "Events, not unique people. Bots and reloads affect counts; privacy opt-outs are not measured. Source tags are client supplied. Fees and net after fees are unavailable.",
+  "email_status": "disabled",
+  "weekly": {
+    "start_utc": "2026-10-19T00:00:00+00:00",
+    "end_exclusive_utc": "2026-10-26T00:00:00+00:00",
+    "counts": {
+      "visit": 0,
+      "preview": 0,
+      "checkout": 0,
+      "exercise_complete": 0
+    },
+    "sales": {
+      "paid_orders": 0,
+      "gross_cents": 0,
+      "refunded_cents": 0,
+      "net_before_fees_cents": 0,
+      "currency": "usd"
+    },
+    "refund_basis": "Refunds currently applied to orders paid in this week; not refund-date cash flow."
+  },
+  "monitor": {
+    "checkout_ready": true,
+    "health_status": 200,
+    "checkout_status": 303,
+    "live_payment_submitted": false,
+    "delivery_status": "readiness checks schema and product checksum; live fulfillment awaits a genuine paid order"
+  }
+}
