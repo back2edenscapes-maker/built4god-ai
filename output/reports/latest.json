@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T07:06:52.405400+00:00",
+  "generated_at": "2026-10-19T13:01:00.530592+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -22,7 +22,7 @@
           "title": "Personal software factories are a waste of time",
           "source": "Hacker News RSS",
           "published": "2026-10-18T19:02:11+00:00",
-          "seen": "2026-10-19T07:06:47.150806+00:00",
+          "seen": "2026-10-19T13:00:52.114814+00:00",
           "niche": "software"
         },
         {
@@ -54,7 +54,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-19T07:06:47.150806+00:00",
+          "seen": "2026-10-19T13:00:52.114814+00:00",
           "niche": "software"
         },
         {
@@ -62,7 +62,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-19T07:06:47.150806+00:00",
+          "seen": "2026-10-19T13:00:52.114814+00:00",
           "niche": "software"
         }
       ],
