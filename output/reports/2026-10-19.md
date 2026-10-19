@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-19T00:59:57.468381+00:00
+2026-10-19T07:06:52.405400+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time) (Hacker News RSS, 2026-10-18T19:02:11+00:00)
 - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software) (Hacker News RSS, 2026-10-18T16:32:00+00:00)
 - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes) (Hacker News RSS, 2026-10-18T10:21:51+00:00)
 - [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (Hacker News RSS, 2026-10-17T18:45:07+00:00)

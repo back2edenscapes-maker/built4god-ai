@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:59:57.468381+00:00",
+  "generated_at": "2026-10-19T07:06:52.405400+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -12,17 +12,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 5,
+      "demand_signal_count": 6,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time",
+          "title": "Personal software factories are a waste of time",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T19:02:11+00:00",
+          "seen": "2026-10-19T07:06:47.150806+00:00",
+          "niche": "software"
+        },
+        {
           "url": "https://karrisaarinen.com/posts/someone-behind-the-software",
           "title": "Someone behind the software",
           "source": "Hacker News RSS",
           "published": "2026-10-18T16:32:00+00:00",
-          "seen": "2026-10-19T00:59:56.803626+00:00",
+          "seen": "2026-10-19T07:06:47.150806+00:00",
           "niche": "software"
         },
         {
@@ -46,7 +54,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-19T00:59:56.803626+00:00",
+          "seen": "2026-10-19T07:06:47.150806+00:00",
           "niche": "software"
         },
         {
@@ -54,7 +62,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-19T00:59:56.803626+00:00",
+          "seen": "2026-10-19T07:06:47.150806+00:00",
           "niche": "software"
         }
       ],
