@@ -1,0 +1,31 @@
+{
+  "status": "draft_needs_review",
+  "opportunity": {
+    "id": "data",
+    "title": "Data quality checklist and tracking workbook",
+    "score": 17,
+    "dimensions_1_to_5": {
+      "startup_cost": 5,
+      "competition": 1,
+      "automation_feasibility": 4,
+      "potential_revenue": 1,
+      "speed_to_launch": 5
+    },
+    "demand_signal_count": 1,
+    "competition_status": "unverified",
+    "revenue_status": "unverified",
+    "startup_cost_usd": 0,
+    "evidence": [
+      {
+        "url": "https://github.com/kividbio/kividb",
+        "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+        "source": "Hacker News RSS",
+        "published": "2026-10-19T13:53:52+00:00",
+        "seen": "2026-10-19T18:58:15.225001+00:00",
+        "niche": "data"
+      }
+    ],
+    "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+  },
+  "published": false
+}
