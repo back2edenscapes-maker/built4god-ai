@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T18:46:34.768768+00:00",
+  "generated_at": "2026-10-19T00:59:57.468381+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -22,7 +22,7 @@
           "title": "Someone behind the software",
           "source": "Hacker News RSS",
           "published": "2026-10-18T16:32:00+00:00",
-          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "seen": "2026-10-19T00:59:56.803626+00:00",
           "niche": "software"
         },
         {
@@ -46,7 +46,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "seen": "2026-10-19T00:59:56.803626+00:00",
           "niche": "software"
         },
         {
@@ -54,7 +54,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "seen": "2026-10-19T00:59:56.803626+00:00",
           "niche": "software"
         }
       ],
