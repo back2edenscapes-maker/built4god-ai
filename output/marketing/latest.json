@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-19T08:52:40.894301+00:00",
+  "generated_at": "2026-10-20T08:48:23.855250+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [
-    "05dfa1c7983acc4ebe9b"
+    "b49e466a5cca47fb3ad7"
   ],
   "queue": [
     {
@@ -21,9 +21,22 @@
       "created": "2026-10-19T08:52:40.894301+00:00",
       "status": "review_required",
       "published_url": null
+    },
+    {
+      "id": "b49e466a5cca47fb3ad7",
+      "topic": "price",
+      "path": "output/marketing/drafts/b49e466a5cca47fb3ad7.md",
+      "created": "2026-10-20T08:48:23.855250+00:00",
+      "status": "review_required",
+      "published_url": null
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "Hacker News RSS",
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    }
+  ],
   "research": [
     {
       "id": "software",
@@ -62,7 +75,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-19T08:52:40.894742+00:00",
+          "seen": "2026-10-20T08:48:23.855782+00:00",
           "niche": "software"
         },
         {
@@ -70,7 +83,7 @@
           "title": "Secret protection must scale with software",
           "source": "GitHub Blog",
           "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-19T08:52:40.894742+00:00",
+          "seen": "2026-10-20T08:48:23.855782+00:00",
           "niche": "software"
         }
       ],

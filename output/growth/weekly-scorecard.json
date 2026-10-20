@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T08:52:44.839Z",
+  "generated_at": "2026-10-20T08:48:25.327Z",
   "period": {
     "start_utc": "2026-10-19T00:00:00+00:00",
     "end_exclusive_utc": "2026-10-26T00:00:00+00:00",
     "counts": {
       "visit": 0,
-      "preview": 0,
+      "preview": 1,
       "checkout": 0,
       "exercise_complete": 0
     },
@@ -22,7 +22,7 @@
   "coverage": "Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.",
   "event_ratios": {
     "checkout_starts_per_storefront_view": null,
-    "note_save_actions_per_preview_view": null,
+    "note_save_actions_per_preview_view": 0.0,
     "paid_orders_per_storefront_view": null
   },
   "processor_fees_cents": null,
