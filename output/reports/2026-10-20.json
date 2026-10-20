@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:00:40.802556+00:00",
+  "generated_at": "2026-10-20T18:55:45.046194+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -54,7 +54,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-20T13:00:38.730627+00:00",
+          "seen": "2026-10-20T18:55:44.345243+00:00",
           "niche": "software"
         },
         {
@@ -91,6 +91,33 @@
           "published": "2026-10-19T13:53:52+00:00",
           "seen": "2026-10-19T18:58:15.225001+00:00",
           "niche": "data"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "workflow",
+      "title": "Workflow planning toolkit",
+      "score": 17,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 1,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "source": "GitHub Blog",
+          "published": "2026-10-20T16:05:03+00:00",
+          "seen": "2026-10-20T18:55:44.345243+00:00",
+          "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
