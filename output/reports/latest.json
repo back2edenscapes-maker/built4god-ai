@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T13:01:28.194240+00:00",
+  "generated_at": "2026-10-21T18:57:18.277941+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -54,7 +54,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-21T13:01:23.306244+00:00",
+          "seen": "2026-10-21T18:57:16.721237+00:00",
           "niche": "software"
         },
         {
@@ -71,7 +71,7 @@
     {
       "id": "data",
       "title": "Data quality checklist and tracking workbook",
-      "score": 18,
+      "score": 19,
       "dimensions_1_to_5": {
         "startup_cost": 5,
         "competition": 1,
@@ -79,11 +79,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 2,
+      "demand_signal_count": 3,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "source": "Hacker News RSS",
+          "published": "2026-10-21T13:37:00+00:00",
+          "seen": "2026-10-21T18:57:16.721237+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
           "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
@@ -124,7 +132,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-21T13:01:23.306244+00:00",
+          "seen": "2026-10-21T18:57:16.721237+00:00",
           "niche": "workflow"
         }
       ],
