@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-20T08:48:23.855250+00:00",
+  "generated_at": "2026-10-21T08:50:24.767658+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [
-    "b49e466a5cca47fb3ad7"
+    "4e3f3470a0d948eb310a"
   ],
   "queue": [
     {
@@ -29,14 +29,17 @@
       "created": "2026-10-20T08:48:23.855250+00:00",
       "status": "review_required",
       "published_url": null
-    }
-  ],
-  "source_errors": [
+    },
     {
-      "source": "Hacker News RSS",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+      "id": "4e3f3470a0d948eb310a",
+      "topic": "experiment",
+      "path": "output/marketing/drafts/4e3f3470a0d948eb310a.md",
+      "created": "2026-10-21T08:50:24.767658+00:00",
+      "status": "review_required",
+      "published_url": null
     }
   ],
+  "source_errors": [],
   "research": [
     {
       "id": "software",
@@ -75,7 +78,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-20T08:48:23.855782+00:00",
+          "seen": "2026-10-21T08:50:24.768124+00:00",
           "niche": "software"
         },
         {
@@ -85,6 +88,60 @@
           "published": "2026-10-07T17:45:34+00:00",
           "seen": "2026-10-20T08:48:23.855782+00:00",
           "niche": "software"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "data",
+      "title": "Data quality checklist and tracking workbook",
+      "score": 17,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 1,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+          "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+          "source": "Hacker News RSS",
+          "published": "2026-10-20T22:26:40+00:00",
+          "seen": "2026-10-21T08:50:24.768124+00:00",
+          "niche": "data"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "workflow",
+      "title": "Workflow planning toolkit",
+      "score": 17,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 1,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "source": "GitHub Blog",
+          "published": "2026-10-20T16:05:03+00:00",
+          "seen": "2026-10-21T08:50:24.768124+00:00",
+          "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
