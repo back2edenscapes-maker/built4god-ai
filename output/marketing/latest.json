@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T08:50:24.767658+00:00",
+  "generated_at": "2026-10-22T08:51:52.450548+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [
-    "4e3f3470a0d948eb310a"
+    "c40c6f98b7708e743b59"
   ],
   "queue": [
     {
@@ -35,6 +35,14 @@
       "topic": "experiment",
       "path": "output/marketing/drafts/4e3f3470a0d948eb310a.md",
       "created": "2026-10-21T08:50:24.767658+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "c40c6f98b7708e743b59",
+      "topic": "listing",
+      "path": "output/marketing/drafts/c40c6f98b7708e743b59.md",
+      "created": "2026-10-22T08:51:52.450548+00:00",
       "status": "review_required",
       "published_url": null
     }
@@ -78,7 +86,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-21T08:50:24.768124+00:00",
+          "seen": "2026-10-22T08:51:52.450962+00:00",
           "niche": "software"
         },
         {
@@ -140,7 +148,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-21T08:50:24.768124+00:00",
+          "seen": "2026-10-22T08:51:52.450962+00:00",
           "niche": "workflow"
         }
       ],
