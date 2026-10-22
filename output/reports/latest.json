@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:59:58.108542+00:00",
+  "generated_at": "2026-10-22T07:04:13.595050+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -54,7 +54,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-22T00:59:56.578122+00:00",
+          "seen": "2026-10-22T07:04:13.015402+00:00",
           "niche": "software"
         },
         {
@@ -132,7 +132,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-22T00:59:56.578122+00:00",
+          "seen": "2026-10-22T07:04:13.015402+00:00",
           "niche": "workflow"
         }
       ],
