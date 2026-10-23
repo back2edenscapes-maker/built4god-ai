@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:01:44.197505+00:00",
+  "generated_at": "2026-10-23T12:58:31.268620+00:00",
   "opportunities": [
     {
       "id": "software",
@@ -22,7 +22,7 @@
           "title": "LLMs are making formal software verification feasible at a much larger scale",
           "source": "Hacker News RSS",
           "published": "2026-10-22T22:54:43+00:00",
-          "seen": "2026-10-23T07:01:30.388370+00:00",
+          "seen": "2026-10-23T12:58:29.277355+00:00",
           "niche": "software"
         },
         {
@@ -62,7 +62,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-23T07:01:30.388370+00:00",
+          "seen": "2026-10-23T12:58:29.277355+00:00",
           "niche": "software"
         },
         {
@@ -148,7 +148,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-23T07:01:30.388370+00:00",
+          "seen": "2026-10-23T12:58:29.277355+00:00",
           "niche": "workflow"
         }
       ],
