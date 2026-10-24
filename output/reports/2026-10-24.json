@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:05:50.598008+00:00",
+  "generated_at": "2026-10-24T06:58:16.871105+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -22,7 +22,7 @@
           "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
           "source": "Hacker News RSS",
           "published": "2026-10-23T19:34:15+00:00",
-          "seen": "2026-10-24T01:05:32.319923+00:00",
+          "seen": "2026-10-24T06:58:16.734920+00:00",
           "niche": "data"
         },
         {
@@ -129,7 +129,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-24T01:05:32.319923+00:00",
+          "seen": "2026-10-24T06:58:16.734920+00:00",
           "niche": "software"
         },
         {
@@ -164,7 +164,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-24T01:05:32.319923+00:00",
+          "seen": "2026-10-24T06:58:16.734920+00:00",
           "niche": "workflow"
         }
       ],
