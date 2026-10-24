@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:55:36.297024+00:00",
+  "generated_at": "2026-10-24T18:48:52.359163+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 6,
+      "demand_signal_count": 7,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report",
+          "title": "Google illegally cut down 250K trees in Finland for data center",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T14:38:34+00:00",
+          "seen": "2026-10-24T18:48:51.645505+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
           "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
@@ -79,11 +87,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 7,
+      "demand_signal_count": 8,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://blog.roku.com/developer/gitlab-move",
+          "title": "Roku developer repositories moved from GitHub to GitLab",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T16:06:26+00:00",
+          "seen": "2026-10-24T18:48:51.645505+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://www.anthropic.com/research/formal-verification",
           "title": "LLMs are making formal software verification feasible at a much larger scale",
@@ -129,7 +145,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-24T12:55:16.071724+00:00",
+          "seen": "2026-10-24T18:48:51.645505+00:00",
           "niche": "software"
         },
         {
@@ -164,19 +180,14 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-24T12:55:16.071724+00:00",
+          "seen": "2026-10-24T18:48:51.645505+00:00",
           "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "URLError: <urlopen error timed out>"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
