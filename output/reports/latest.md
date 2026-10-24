@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-23T18:55:51.659294+00:00
+2026-10-24T01:05:50.598008+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News RSS, 2026-10-23T19:34:15+00:00)
 - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
 - [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
 - [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) (Hacker News RSS, 2026-10-21T13:37:00+00:00)

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T18:55:51.659294+00:00",
+  "generated_at": "2026-10-24T01:05:50.598008+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 5,
+      "demand_signal_count": 6,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "source": "Hacker News RSS",
+          "published": "2026-10-23T19:34:15+00:00",
+          "seen": "2026-10-24T01:05:32.319923+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
           "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
@@ -121,7 +129,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-23T18:55:46.036782+00:00",
+          "seen": "2026-10-24T01:05:32.319923+00:00",
           "niche": "software"
         },
         {
@@ -156,7 +164,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-23T18:55:46.036782+00:00",
+          "seen": "2026-10-24T01:05:32.319923+00:00",
           "niche": "workflow"
         }
       ],
