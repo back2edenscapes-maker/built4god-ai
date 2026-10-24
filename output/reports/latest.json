@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T06:58:16.871105+00:00",
+  "generated_at": "2026-10-24T12:55:36.297024+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -129,7 +129,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-24T06:58:16.734920+00:00",
+          "seen": "2026-10-24T12:55:16.071724+00:00",
           "niche": "software"
         },
         {
@@ -164,14 +164,19 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-24T06:58:16.734920+00:00",
+          "seen": "2026-10-24T12:55:16.071724+00:00",
           "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "Hacker News RSS",
+      "error": "URLError: <urlopen error timed out>"
+    }
+  ],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
