@@ -1,10 +1,8 @@
 {
-  "generated_at": "2026-10-23T08:48:30.720017+00:00",
+  "generated_at": "2026-10-24T08:45:35.943057+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
-  "new_drafts": [
-    "73dbfe2c3b4b0cbaa4b0"
-  ],
+  "new_drafts": [],
   "queue": [
     {
       "id": "ae54271012a586727a77",
@@ -102,7 +100,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-23T08:48:30.720441+00:00",
+          "seen": "2026-10-24T08:45:35.943465+00:00",
           "niche": "software"
         },
         {
@@ -119,7 +117,7 @@
     {
       "id": "data",
       "title": "Data quality checklist and tracking workbook",
-      "score": 18,
+      "score": 19,
       "dimensions_1_to_5": {
         "startup_cost": 5,
         "competition": 1,
@@ -127,11 +125,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 2,
+      "demand_signal_count": 3,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "source": "Hacker News RSS",
+          "published": "2026-10-23T19:34:15+00:00",
+          "seen": "2026-10-24T08:45:35.943465+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
           "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
@@ -172,7 +178,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-23T08:48:30.720441+00:00",
+          "seen": "2026-10-24T08:45:35.943465+00:00",
           "niche": "workflow"
         }
       ],
@@ -385,6 +391,6 @@
   },
   "search_volume": null,
   "search_volume_note": "No authorized keyword-volume provider configured. RSS relevance is not buyer intent.",
-  "quality_status": "draft_ready_for_review",
+  "quality_status": "hold_existing_queue_or_add_new_researched_topic",
   "next_action": "Review one useful draft and destination rules. Obtain owner approval before external publication."
 }
