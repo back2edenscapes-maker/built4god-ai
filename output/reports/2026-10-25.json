@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T06:59:07.868201+00:00",
+  "generated_at": "2026-10-25T12:55:09.024428+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -97,7 +97,7 @@
           "title": "We should be more ambitious with the software we build",
           "source": "Hacker News RSS",
           "published": "2026-10-24T21:47:31+00:00",
-          "seen": "2026-10-25T06:59:07.355331+00:00",
+          "seen": "2026-10-25T12:55:08.353924+00:00",
           "niche": "software"
         },
         {
@@ -153,7 +153,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-25T06:59:07.355331+00:00",
+          "seen": "2026-10-25T12:55:08.353924+00:00",
           "niche": "software"
         },
         {
@@ -188,7 +188,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-25T06:59:07.355331+00:00",
+          "seen": "2026-10-25T12:55:08.353924+00:00",
           "niche": "workflow"
         }
       ],
