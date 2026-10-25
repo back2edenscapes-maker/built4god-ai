@@ -1,0 +1,404 @@
+{
+  "generated_at": "2026-10-25T08:45:02.477299+00:00",
+  "mode": "research_and_drafts_only",
+  "published_automatically": false,
+  "new_drafts": [],
+  "queue": [
+    {
+      "id": "ae54271012a586727a77",
+      "topic": "recent-task",
+      "path": "output/marketing/drafts/ae54271012a586727a77.md",
+      "created": "2026-10-18T05:40:51.072944+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "05dfa1c7983acc4ebe9b",
+      "topic": "alternatives",
+      "path": "output/marketing/drafts/05dfa1c7983acc4ebe9b.md",
+      "created": "2026-10-19T08:52:40.894301+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "b49e466a5cca47fb3ad7",
+      "topic": "price",
+      "path": "output/marketing/drafts/b49e466a5cca47fb3ad7.md",
+      "created": "2026-10-20T08:48:23.855250+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "4e3f3470a0d948eb310a",
+      "topic": "experiment",
+      "path": "output/marketing/drafts/4e3f3470a0d948eb310a.md",
+      "created": "2026-10-21T08:50:24.767658+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "c40c6f98b7708e743b59",
+      "topic": "listing",
+      "path": "output/marketing/drafts/c40c6f98b7708e743b59.md",
+      "created": "2026-10-22T08:51:52.450548+00:00",
+      "status": "review_required",
+      "published_url": null
+    },
+    {
+      "id": "73dbfe2c3b4b0cbaa4b0",
+      "topic": "launch",
+      "path": "output/marketing/drafts/73dbfe2c3b4b0cbaa4b0.md",
+      "created": "2026-10-23T08:48:30.720017+00:00",
+      "status": "review_required",
+      "published_url": null
+    }
+  ],
+  "source_errors": [],
+  "research": [
+    {
+      "id": "software",
+      "title": "Small software project launch toolkit",
+      "score": 21,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 6,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://danluu.com/ambitious",
+          "title": "We should be more ambitious with the software we build",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T21:47:31+00:00",
+          "seen": "2026-10-25T08:45:02.477778+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "title": "LLMs are making formal software verification feasible at a much larger scale",
+          "source": "Hacker News RSS",
+          "published": "2026-10-22T22:54:43+00:00",
+          "seen": "2026-10-23T08:48:30.720441+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time",
+          "title": "Personal software factories are a waste of time",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T19:02:11+00:00",
+          "seen": "2026-10-19T08:52:40.894742+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+          "title": "Microsoft and CMU team up to train early career software engineers",
+          "source": "Hacker News RSS",
+          "published": "2026-10-17T18:45:07+00:00",
+          "seen": "2026-10-18T08:43:12.240666+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+          "title": "The next developer interface is ambient intelligence",
+          "source": "GitHub Blog",
+          "published": "2026-10-15T19:39:27+00:00",
+          "seen": "2026-10-25T08:45:02.477778+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "title": "Secret protection must scale with software",
+          "source": "GitHub Blog",
+          "published": "2026-10-07T17:45:34+00:00",
+          "seen": "2026-10-20T08:48:23.855782+00:00",
+          "niche": "software"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "data",
+      "title": "Data quality checklist and tracking workbook",
+      "score": 19,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 3,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "source": "Hacker News RSS",
+          "published": "2026-10-23T19:34:15+00:00",
+          "seen": "2026-10-24T08:45:35.943465+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+          "source": "Hacker News RSS",
+          "published": "2026-10-22T20:51:23+00:00",
+          "seen": "2026-10-23T08:48:30.720441+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+          "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+          "source": "Hacker News RSS",
+          "published": "2026-10-20T22:26:40+00:00",
+          "seen": "2026-10-21T08:50:24.768124+00:00",
+          "niche": "data"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "workflow",
+      "title": "Workflow planning toolkit",
+      "score": 17,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 1,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "source": "GitHub Blog",
+          "published": "2026-10-20T16:05:03+00:00",
+          "seen": "2026-10-25T08:45:02.477778+00:00",
+          "niche": "workflow"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    }
+  ],
+  "channels": {
+    "checked_at": "2026-10-18",
+    "publishing": "human_approval_required",
+    "channels": [
+      {
+        "id": "owned_search",
+        "name": "Owned website search discovery",
+        "priority": 1,
+        "audience_fit_1_to_5": 5,
+        "buyer_intent_hypothesis_1_to_5": 4,
+        "time_required": "2 articles; slow feedback",
+        "status": "ready_after_content_approval",
+        "restrictions": "Use original helpful articles, descriptive links, crawlable pages; indexing/ranking not guaranteed.",
+        "rule_source": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide",
+        "evidence_status": "verified_official",
+        "checked_at": "2026-10-18",
+        "measurement": "preview events and checkout clicks; organic referral if available",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "owned_social",
+        "name": "Existing owned organic social account",
+        "priority": 2,
+        "audience_fit_1_to_5": 4,
+        "buyer_intent_hypothesis_1_to_5": 3,
+        "time_required": "30 minutes per reviewed post",
+        "status": "account_and_rules_check",
+        "restrictions": "Existing account/audience unknown. Publish only after owner approval and native rules review; no mass DMs.",
+        "rule_source": "https://built4god-launchready.wearebuilt4god.chatgpt.site/",
+        "evidence_status": "owned_asset_not_platform_permission",
+        "checked_at": "2026-10-18",
+        "measurement": "source-tagged visits and qualitative buyer-fit feedback",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "sideproject",
+        "name": "Reddit r/SideProject",
+        "priority": 3,
+        "audience_fit_1_to_5": 5,
+        "buyer_intent_hypothesis_1_to_5": 3,
+        "time_required": "45 minutes plus genuine discussion",
+        "status": "manual_local_rules_check",
+        "restrictions": "Sidebar welcomes sharing projects and gives Project name - Short description format. Full rules and AI-policy endpoint did not render; human must verify before posting.",
+        "rule_source": "https://old.reddit.com/r/SideProject/",
+        "evidence_status": "partial_sidebar_verified",
+        "checked_at": "2026-10-18",
+        "measurement": "approved demonstration link visits and useful questions",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "youtube",
+        "name": "Existing YouTube educational channel",
+        "priority": 4,
+        "audience_fit_1_to_5": 4,
+        "buyer_intent_hypothesis_1_to_5": 3,
+        "time_required": "2 hours demo production",
+        "status": "owner_approval_and_account_check",
+        "restrictions": "Useful original demonstration; no repetitive mass-produced videos, misleading diversion, comment spam or artificial engagement.",
+        "rule_source": "https://support.google.com/youtube/answer/2801973?hl=en",
+        "evidence_status": "verified_official",
+        "checked_at": "2026-10-18",
+        "measurement": "demo source visits; preview and checkout event ratios",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "indiehackers",
+        "name": "Indie Hackers community",
+        "priority": 5,
+        "audience_fit_1_to_5": 5,
+        "buyer_intent_hypothesis_1_to_5": 3,
+        "time_required": "45 minutes research plus discussion",
+        "status": "rules_unverified_hold",
+        "restrictions": "Audience fit is a hypothesis. Guidelines page was inaccessible; no authoritative permission verified. Recheck current community rules and AI policy before any submission.",
+        "rule_source": "https://www.indiehackers.com/guidelines",
+        "evidence_status": "unavailable",
+        "checked_at": "2026-10-18",
+        "measurement": "manual approval and relevant responses before traffic test",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "partnership",
+        "name": "Existing consenting peer or educator",
+        "priority": 6,
+        "audience_fit_1_to_5": 4,
+        "buyer_intent_hypothesis_1_to_5": 4,
+        "time_required": "30 minutes preparation; access unknown",
+        "status": "specific_outreach_approval",
+        "restrictions": "No actual partner identified or contacted. Ask owner to select an existing consenting relationship; agree educational scope. No affiliate or commission scheme authorized.",
+        "rule_source": "https://built4god-launchready.wearebuilt4god.chatgpt.site/sample",
+        "evidence_status": "research_hypothesis",
+        "checked_at": "2026-10-18",
+        "measurement": "opt-in feedback and separately tagged placement if mutually approved",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "pinterest",
+        "name": "Pinterest original visual checklist",
+        "priority": 7,
+        "audience_fit_1_to_5": 2,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "1 hour visual plus rule check",
+        "status": "owner_approval_and_account_check",
+        "restrictions": "Current policy prohibits unapproved automation and spam; confirm effective policy on publication date (page announces a November 12 2026 update).",
+        "rule_source": "https://policy.pinterest.com/en/community-guidelines?response_type=embed",
+        "evidence_status": "verified_official",
+        "checked_at": "2026-10-18",
+        "measurement": "tagged preview visits; no guaranteed niche demand",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "producthunt",
+        "name": "Product Hunt directory launch",
+        "priority": 8,
+        "audience_fit_1_to_5": 3,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "3 hours preparation; eligibility uncertain",
+        "status": "eligibility_check_then_owner_approval",
+        "restrictions": "Free launch through personal account. Novelty/fit uncertain for general template material. No paid hunters, vote solicitation, fake engagement. Do not create account without approval.",
+        "rule_source": "https://www.producthunt.com/launch/how-product-hunt-works",
+        "evidence_status": "verified_official",
+        "checked_at": "2026-10-18",
+        "measurement": "qualified referral visits and real orders; featuring not guaranteed",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "freelance",
+        "name": "Reddit r/freelance",
+        "priority": 9,
+        "audience_fit_1_to_5": 3,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "45 minutes rule research",
+        "status": "rules_unverified_hold",
+        "restrictions": "Local rules page returned an empty shell; do not infer commercial promotion or research permission. Audience need is unvalidated.",
+        "rule_source": "https://www.reddit.com/r/freelance/about/rules/",
+        "evidence_status": "unavailable",
+        "checked_at": "2026-10-18",
+        "measurement": "no campaign until specific permission verified",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "smallbusiness",
+        "name": "Reddit r/smallbusiness",
+        "priority": 10,
+        "audience_fit_1_to_5": 2,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "45 minutes rule research",
+        "status": "rules_unverified_hold",
+        "restrictions": "Page inaccessible during review. Broad audience fit weak; do not post promotion or invitations until exact current rules verified.",
+        "rule_source": "https://www.reddit.com/r/smallbusiness/about/rules/",
+        "evidence_status": "unavailable",
+        "checked_at": "2026-10-18",
+        "measurement": "no campaign until permission verified",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "entrepreneur",
+        "name": "Reddit r/Entrepreneur",
+        "priority": 11,
+        "audience_fit_1_to_5": 3,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "not a generated-content channel",
+        "status": "excluded_for_generated_campaign",
+        "restrictions": "Sidebar prohibits AI-generated posts/comments and standalone promotion. Weekly designated threads do not override AI prohibition. No generated drafts here; no disguised promotion.",
+        "rule_source": "https://old.reddit.com/r/Entrepreneur/",
+        "evidence_status": "verified_community_sidebar",
+        "checked_at": "2026-10-18",
+        "measurement": "research only; independently human-authored compliant participation is separate",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      },
+      {
+        "id": "hackernews",
+        "name": "Hacker News / Show HN",
+        "priority": 12,
+        "audience_fit_1_to_5": 3,
+        "buyer_intent_hypothesis_1_to_5": 2,
+        "time_required": "not eligible for this campaign",
+        "status": "excluded_for_generated_campaign",
+        "restrictions": "HN prohibits generated posts and AI-edited comments, automated posting and promotion-led use. Show HN excludes reading material and landing pages; template kit is weak fit.",
+        "rule_source": "https://news.ycombinator.com/newsguidelines.html",
+        "evidence_status": "verified_official",
+        "checked_at": "2026-10-18",
+        "measurement": "no submission of these drafts",
+        "startup_cost_usd": 0,
+        "score_basis": "Editorial prioritization; not observed traffic, demand or predicted revenue"
+      }
+    ],
+    "additional_sources": [
+      "https://support.reddithelp.com/hc/en-us/articles/360043504051-Spam",
+      "https://news.ycombinator.com/showhn.html",
+      "https://help.producthunt.com/en/articles/9883485-product-hunt-featuring-guidelines",
+      "https://support.google.com/youtube/answer/9054257"
+    ]
+  },
+  "search_volume": null,
+  "search_volume_note": "No authorized keyword-volume provider configured. RSS relevance is not buyer intent.",
+  "quality_status": "hold_existing_queue_or_add_new_researched_topic",
+  "next_action": "Review one useful draft and destination rules. Obtain owner approval before external publication."
+}
