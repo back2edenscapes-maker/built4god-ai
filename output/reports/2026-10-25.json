@@ -1,0 +1,201 @@
+{
+  "generated_at": "2026-10-25T00:56:04.636317+00:00",
+  "opportunities": [
+    {
+      "id": "data",
+      "title": "Data quality checklist and tracking workbook",
+      "score": 21,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 7,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report",
+          "title": "Google illegally cut down 250K trees in Finland for data center",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T14:38:34+00:00",
+          "seen": "2026-10-25T00:56:03.998738+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "source": "Hacker News RSS",
+          "published": "2026-10-23T19:34:15+00:00",
+          "seen": "2026-10-24T06:58:16.734920+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+          "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+          "source": "Hacker News RSS",
+          "published": "2026-10-23T12:56:38+00:00",
+          "seen": "2026-10-23T18:55:46.036782+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+          "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+          "source": "Hacker News RSS",
+          "published": "2026-10-22T20:51:23+00:00",
+          "seen": "2026-10-23T07:01:30.388370+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "title": "Using thousands of AI agents to uncover new leads in biological data",
+          "source": "Hacker News RSS",
+          "published": "2026-10-21T13:37:00+00:00",
+          "seen": "2026-10-21T18:57:16.721237+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
+          "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
+          "source": "Hacker News RSS",
+          "published": "2026-10-20T22:26:40+00:00",
+          "seen": "2026-10-21T13:01:23.306244+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://github.com/kividbio/kividb",
+          "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+          "source": "Hacker News RSS",
+          "published": "2026-10-19T13:53:52+00:00",
+          "seen": "2026-10-19T18:58:15.225001+00:00",
+          "niche": "data"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "software",
+      "title": "Small software project launch toolkit",
+      "score": 21,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 9,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://danluu.com/ambitious",
+          "title": "We should be more ambitious with the software we build",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T21:47:31+00:00",
+          "seen": "2026-10-25T00:56:03.998738+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://blog.roku.com/developer/gitlab-move",
+          "title": "Roku developer repositories moved from GitHub to GitLab",
+          "source": "Hacker News RSS",
+          "published": "2026-10-24T16:06:26+00:00",
+          "seen": "2026-10-25T00:56:03.998738+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.anthropic.com/research/formal-verification",
+          "title": "LLMs are making formal software verification feasible at a much larger scale",
+          "source": "Hacker News RSS",
+          "published": "2026-10-22T22:54:43+00:00",
+          "seen": "2026-10-23T12:58:29.277355+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time",
+          "title": "Personal software factories are a waste of time",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T19:02:11+00:00",
+          "seen": "2026-10-19T13:00:52.114814+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://karrisaarinen.com/posts/someone-behind-the-software",
+          "title": "Someone behind the software",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T16:32:00+00:00",
+          "seen": "2026-10-19T07:06:47.150806+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes",
+          "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+          "source": "Hacker News RSS",
+          "published": "2026-10-18T10:21:51+00:00",
+          "seen": "2026-10-18T18:46:34.508407+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+          "title": "Microsoft and CMU team up to train early career software engineers",
+          "source": "Hacker News RSS",
+          "published": "2026-10-17T18:45:07+00:00",
+          "seen": "2026-10-18T12:51:37.657039+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
+          "title": "The next developer interface is ambient intelligence",
+          "source": "GitHub Blog",
+          "published": "2026-10-15T19:39:27+00:00",
+          "seen": "2026-10-25T00:56:03.998738+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
+          "title": "Secret protection must scale with software",
+          "source": "GitHub Blog",
+          "published": "2026-10-07T17:45:34+00:00",
+          "seen": "2026-10-20T13:00:38.730627+00:00",
+          "niche": "software"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    },
+    {
+      "id": "workflow",
+      "title": "Workflow planning toolkit",
+      "score": 17,
+      "dimensions_1_to_5": {
+        "startup_cost": 5,
+        "competition": 1,
+        "automation_feasibility": 4,
+        "potential_revenue": 1,
+        "speed_to_launch": 5
+      },
+      "demand_signal_count": 1,
+      "competition_status": "unverified",
+      "revenue_status": "unverified",
+      "startup_cost_usd": 0,
+      "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "source": "GitHub Blog",
+          "published": "2026-10-20T16:05:03+00:00",
+          "seen": "2026-10-25T00:56:03.998738+00:00",
+          "niche": "workflow"
+        }
+      ],
+      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
+    }
+  ],
+  "source_errors": [],
+  "verified_manual_revenue": [],
+  "note": "Heuristic leads, not validated businesses or earnings forecasts."
+}

@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-24T18:48:52.359163+00:00
+2026-10-25T00:56:04.636317+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -13,6 +13,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious) (Hacker News RSS, 2026-10-24T21:47:31+00:00)
 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
 - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (Hacker News RSS, 2026-10-22T22:54:43+00:00)
 - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time) (Hacker News RSS, 2026-10-18T19:02:11+00:00)
