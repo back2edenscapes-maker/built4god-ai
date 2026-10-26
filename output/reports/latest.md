@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-26T01:11:24.851591+00:00
+2026-10-26T07:07:32.389802+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -13,6 +13,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) (Hacker News RSS, 2026-10-26T04:11:40+00:00)
 - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News RSS, 2026-10-25T14:05:03+00:00)
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious) (Hacker News RSS, 2026-10-24T21:47:31+00:00)
 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
