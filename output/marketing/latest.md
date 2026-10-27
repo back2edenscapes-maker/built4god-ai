@@ -1,5 +1,5 @@
 # Marketer daily review
-2026-10-26T08:56:42.229072+00:00
+2026-10-27T08:54:30.548342+00:00
 
 Drafts only. No external publishing or unsolicited messages.
 
