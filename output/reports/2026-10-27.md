@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-27T13:03:40.106132+00:00
+2026-10-27T18:58:12.227168+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News RSS, 2026-10-27T13:56:15+00:00)
 - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report) (Hacker News RSS, 2026-10-24T14:38:34+00:00)
 - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News RSS, 2026-10-23T19:34:15+00:00)
 - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
