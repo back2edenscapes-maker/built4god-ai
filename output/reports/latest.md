@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-28T13:12:50.289625+00:00
+2026-10-28T19:04:30.244853+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -14,6 +14,9 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents) (GitHub Blog, 2026-10-28T16:07:40+00:00)
+- [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News RSS, 2026-10-28T13:56:21+00:00)
+- [Valve Responds to Developers Fearing AI Slop and Clones](https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones) (Hacker News RSS, 2026-10-28T13:27:24+00:00)
 - [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible) (Hacker News RSS, 2026-10-27T11:30:35+00:00)
 - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) (Hacker News RSS, 2026-10-26T04:11:40+00:00)
 - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News RSS, 2026-10-25T14:05:03+00:00)
