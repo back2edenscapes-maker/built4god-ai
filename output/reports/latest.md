@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-29T13:15:40.259176+00:00
+2026-10-29T19:06:55.674363+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn) (Hacker News RSS, 2026-10-29T14:22:53+00:00)
 - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28) (Hacker News RSS, 2026-10-28T20:46:52+00:00)
 - [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News RSS, 2026-10-27T13:56:15+00:00)
 - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report) (Hacker News RSS, 2026-10-24T14:38:34+00:00)
@@ -15,6 +16,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) (Hacker News RSS, 2026-10-29T13:58:41+00:00)
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents) (GitHub Blog, 2026-10-28T16:07:40+00:00)
 - [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News RSS, 2026-10-28T13:56:21+00:00)
 - [Valve Responds to Developers Fearing AI Slop and Clones](https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones) (Hacker News RSS, 2026-10-28T13:27:24+00:00)

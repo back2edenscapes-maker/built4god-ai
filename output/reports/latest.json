@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:15:40.259176+00:00",
+  "generated_at": "2026-10-29T19:06:55.674363+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 9,
+      "demand_signal_count": 10,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://github.com/owls-on-wires/keplearn",
+          "title": "Keplearn: Extract Equations from Data in Seconds",
+          "source": "Hacker News RSS",
+          "published": "2026-10-29T14:22:53+00:00",
+          "seen": "2026-10-29T19:06:55.000340+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28",
           "title": "Leak website releases data on DHS employees",
@@ -103,17 +111,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 15,
+      "demand_signal_count": 16,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+          "title": "Why are good developers so wary of agentic development?",
+          "source": "Hacker News RSS",
+          "published": "2026-10-29T13:58:41+00:00",
+          "seen": "2026-10-29T19:06:55.000340+00:00",
+          "niche": "software"
+        },
+        {
           "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-10-29T13:15:20.119034+00:00",
+          "seen": "2026-10-29T19:06:55.000340+00:00",
           "niche": "software"
         },
         {
@@ -217,7 +233,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-10-29T13:15:20.119034+00:00",
+          "seen": "2026-10-29T19:06:55.000340+00:00",
           "niche": "software"
         },
         {
@@ -252,7 +268,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-10-29T13:15:20.119034+00:00",
+          "seen": "2026-10-29T19:06:55.000340+00:00",
           "niche": "workflow"
         }
       ],
