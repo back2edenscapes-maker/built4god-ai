@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-28T09:00:40.642Z",
+  "generated_at": "2026-10-29T09:03:31.481Z",
   "analytics_status": "collecting",
   "analytics_started_at": "2026-10-18T05:44:18.175Z",
   "counts": {
-    "visit": 6,
-    "preview": 2,
-    "checkout": 0,
+    "visit": 8,
+    "preview": 3,
+    "checkout": 1,
     "exercise_complete": 0
   },
   "traffic": [
+    {
+      "day": "2026-10-29",
+      "event": "checkout",
+      "source": "direct",
+      "count": 1
+    },
+    {
+      "day": "2026-10-29",
+      "event": "preview",
+      "source": "direct",
+      "count": 1
+    },
+    {
+      "day": "2026-10-29",
+      "event": "visit",
+      "source": "direct",
+      "count": 2
+    },
     {
       "day": "2026-10-19",
       "event": "preview",
@@ -44,9 +62,9 @@
     "start_utc": "2026-10-26T00:00:00+00:00",
     "end_exclusive_utc": "2026-11-02T00:00:00+00:00",
     "counts": {
-      "visit": 0,
-      "preview": 0,
-      "checkout": 0,
+      "visit": 2,
+      "preview": 1,
+      "checkout": 1,
       "exercise_complete": 0
     },
     "sales": {
