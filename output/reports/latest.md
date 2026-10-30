@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-10-29T19:06:55.674363+00:00
+2026-10-30T01:17:48.065031+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -16,6 +16,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html) (Hacker News RSS, 2026-10-29T19:27:47+00:00)
 - [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) (Hacker News RSS, 2026-10-29T13:58:41+00:00)
 - [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents) (GitHub Blog, 2026-10-28T16:07:40+00:00)
 - [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News RSS, 2026-10-28T13:56:21+00:00)
