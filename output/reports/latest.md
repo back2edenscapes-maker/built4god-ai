@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-02T07:41:02.360921+00:00
+2026-11-02T13:26:29.916393+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -17,6 +17,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Show HN: I've updated my Linux System Call website and API](https://syscall.sh) (Hacker News RSS, 2026-11-02T09:29:16+00:00)
 - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded) (Hacker News RSS, 2026-11-01T23:20:31+00:00)
 - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html) (Hacker News RSS, 2026-10-29T19:27:47+00:00)
 - [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) (Hacker News RSS, 2026-10-29T13:58:41+00:00)
@@ -40,7 +41,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
 
 ## Source errors
-[{"source": "Hacker News RSS", "error": "HTTPError: HTTP Error 502: Bad Gateway"}]
+[]
 
 ## Recorded revenue
 []

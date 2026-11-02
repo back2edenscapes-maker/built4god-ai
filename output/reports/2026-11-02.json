@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:41:02.360921+00:00",
+  "generated_at": "2026-11-02T13:26:29.916393+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -119,17 +119,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 18,
+      "demand_signal_count": 19,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://syscall.sh",
+          "title": "Show HN: I've updated my Linux System Call website and API",
+          "source": "Hacker News RSS",
+          "published": "2026-11-02T09:29:16+00:00",
+          "seen": "2026-11-02T13:26:27.232220+00:00",
+          "niche": "software"
+        },
+        {
           "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded",
           "title": "U.S. workers took home their smallest share of capital since at least 1947",
           "source": "Hacker News RSS",
           "published": "2026-11-01T23:20:31+00:00",
-          "seen": "2026-11-02T01:23:44.953472+00:00",
+          "seen": "2026-11-02T13:26:27.232220+00:00",
           "niche": "software"
         },
         {
@@ -153,7 +161,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-02T07:41:01.857099+00:00",
+          "seen": "2026-11-02T13:26:27.232220+00:00",
           "niche": "software"
         },
         {
@@ -257,7 +265,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-02T07:41:01.857099+00:00",
+          "seen": "2026-11-02T13:26:27.232220+00:00",
           "niche": "software"
         },
         {
@@ -292,19 +300,14 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-02T07:41:01.857099+00:00",
+          "seen": "2026-11-02T13:26:27.232220+00:00",
           "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
