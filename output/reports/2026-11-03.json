@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T01:21:48.034740+00:00",
+  "generated_at": "2026-11-03T07:28:39.974779+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -119,11 +119,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 19,
+      "demand_signal_count": 20,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable",
+          "title": "Valve \"played capitalism so well they broke it\" and now Steam can't be replaced",
+          "source": "Hacker News RSS",
+          "published": "2026-11-02T20:42:36+00:00",
+          "seen": "2026-11-03T07:28:38.628863+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://syscall.sh",
           "title": "Show HN: I've updated my Linux System Call website and API",
@@ -161,7 +169,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-03T01:21:46.699943+00:00",
+          "seen": "2026-11-03T07:28:38.628863+00:00",
           "niche": "software"
         },
         {
@@ -265,7 +273,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-03T01:21:46.699943+00:00",
+          "seen": "2026-11-03T07:28:38.628863+00:00",
           "niche": "software"
         },
         {
@@ -300,7 +308,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-03T01:21:46.699943+00:00",
+          "seen": "2026-11-03T07:28:38.628863+00:00",
           "niche": "workflow"
         }
       ],
