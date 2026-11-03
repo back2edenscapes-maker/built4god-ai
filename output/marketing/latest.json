@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:18:41.576135+00:00",
+  "generated_at": "2026-11-03T09:02:08.237996+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -66,11 +66,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 10,
+      "demand_signal_count": 11,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable",
+          "title": "Valve \"played capitalism so well they broke it\" and now Steam can't be replaced",
+          "source": "Hacker News RSS",
+          "published": "2026-11-02T20:42:36+00:00",
+          "seen": "2026-11-03T09:02:08.238402+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded",
           "title": "U.S. workers took home their smallest share of capital since at least 1947",
@@ -92,7 +100,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-02T09:18:41.576490+00:00",
+          "seen": "2026-11-03T09:02:08.238402+00:00",
           "niche": "software"
         },
         {
@@ -140,7 +148,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-02T09:18:41.576490+00:00",
+          "seen": "2026-11-03T09:02:08.238402+00:00",
           "niche": "software"
         },
         {
@@ -226,7 +234,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-02T09:18:41.576490+00:00",
+          "seen": "2026-11-03T09:02:08.238402+00:00",
           "niche": "workflow"
         }
       ],
