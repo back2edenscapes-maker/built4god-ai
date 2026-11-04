@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:24:01.936667+00:00",
+  "generated_at": "2026-11-04T19:14:31.638862+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 12,
+      "demand_signal_count": 13,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+          "title": "US voters roundly reject data centers in ballot measures",
+          "source": "Hacker News RSS",
+          "published": "2026-11-04T14:27:02+00:00",
+          "seen": "2026-11-04T19:14:31.140808+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
           "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
@@ -177,7 +185,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-04T13:23:57.474642+00:00",
+          "seen": "2026-11-04T19:14:31.140808+00:00",
           "niche": "software"
         },
         {
@@ -281,7 +289,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-04T13:23:57.474642+00:00",
+          "seen": "2026-11-04T19:14:31.140808+00:00",
           "niche": "software"
         },
         {
@@ -316,7 +324,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-04T13:23:57.474642+00:00",
+          "seen": "2026-11-04T19:14:31.140808+00:00",
           "niche": "workflow"
         }
       ],
