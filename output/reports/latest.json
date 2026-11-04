@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:10:03.765586+00:00",
+  "generated_at": "2026-11-04T01:23:21.307493+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -22,7 +22,7 @@
           "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
           "source": "Hacker News RSS",
           "published": "2026-11-03T17:22:37+00:00",
-          "seen": "2026-11-03T19:10:02.015533+00:00",
+          "seen": "2026-11-04T01:23:15.467001+00:00",
           "niche": "data"
         },
         {
@@ -177,7 +177,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-03T19:10:02.015533+00:00",
+          "seen": "2026-11-04T01:23:15.467001+00:00",
           "niche": "software"
         },
         {
@@ -281,7 +281,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-03T19:10:02.015533+00:00",
+          "seen": "2026-11-04T01:23:15.467001+00:00",
           "niche": "software"
         },
         {
@@ -316,7 +316,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-03T19:10:02.015533+00:00",
+          "seen": "2026-11-04T01:23:15.467001+00:00",
           "niche": "workflow"
         }
       ],
