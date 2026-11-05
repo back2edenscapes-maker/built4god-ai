@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-05T07:34:58.501401+00:00
+2026-11-05T13:28:35.600151+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers) (Hacker News RSS, 2026-11-05T00:43:13+00:00)
 - [US voters roundly reject data centers in ballot measures](https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures) (Hacker News RSS, 2026-11-04T14:27:02+00:00)
 - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) (Hacker News RSS, 2026-11-03T17:22:37+00:00)
 - [Sam Altman says DRAM capacity should go to data centers, not personal computers](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization) (Hacker News RSS, 2026-11-01T10:28:22+00:00)
