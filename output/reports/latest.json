@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:24:43.782704+00:00",
+  "generated_at": "2026-11-05T07:34:58.501401+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -145,7 +145,7 @@
           "title": "A new Go API for JSON",
           "source": "Hacker News RSS",
           "published": "2026-11-04T17:52:11+00:00",
-          "seen": "2026-11-05T01:24:43.044182+00:00",
+          "seen": "2026-11-05T07:34:57.231530+00:00",
           "niche": "software"
         },
         {
@@ -193,7 +193,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-05T01:24:43.044182+00:00",
+          "seen": "2026-11-05T07:34:57.231530+00:00",
           "niche": "software"
         },
         {
@@ -297,7 +297,7 @@
           "title": "The next developer interface is ambient intelligence",
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-05T01:24:43.044182+00:00",
+          "seen": "2026-11-05T07:34:57.231530+00:00",
           "niche": "software"
         },
         {
@@ -332,7 +332,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-05T01:24:43.044182+00:00",
+          "seen": "2026-11-05T07:34:57.231530+00:00",
           "niche": "workflow"
         }
       ],
