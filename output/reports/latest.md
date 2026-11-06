@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-06T13:24:02.844751+00:00
+2026-11-06T19:09:02.197510+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -40,7 +40,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes) (Hacker News RSS, 2026-10-18T10:21:51+00:00)
 - [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (Hacker News RSS, 2026-10-17T18:45:07+00:00)
 - [The next developer interface is ambient intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence) (GitHub Blog, 2026-10-15T19:39:27+00:00)
-- [Secret protection must scale with software](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software) (GitHub Blog, 2026-10-07T17:45:34+00:00)
 ## Workflow planning toolkit — priority 17/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
