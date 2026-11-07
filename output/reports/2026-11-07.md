@@ -1,10 +1,11 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-07T01:17:13.971235+00:00
+2026-11-07T07:17:40.323703+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) (Hacker News RSS, 2026-11-06T22:50:43+00:00)
+- [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) (Hacker News RSS, 2026-11-06T20:09:14+00:00)
 - [American Voters Overwhelmingly Reject AI Data Centers](https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers) (Hacker News RSS, 2026-11-05T00:43:13+00:00)
 - [US voters roundly reject data centers in ballot measures](https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures) (Hacker News RSS, 2026-11-04T14:27:02+00:00)
 - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) (Hacker News RSS, 2026-11-03T17:22:37+00:00)

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:17:13.971235+00:00",
+  "generated_at": "2026-11-07T07:17:40.323703+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,7 +12,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 15,
+      "demand_signal_count": 16,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -22,7 +22,15 @@
           "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
           "source": "Hacker News RSS",
           "published": "2026-11-06T22:50:43+00:00",
-          "seen": "2026-11-07T01:17:13.398132+00:00",
+          "seen": "2026-11-07T07:17:40.056273+00:00",
+          "niche": "data"
+        },
+        {
+          "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+          "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+          "source": "Hacker News RSS",
+          "published": "2026-11-06T20:09:14+00:00",
+          "seen": "2026-11-07T07:17:40.056273+00:00",
           "niche": "data"
         },
         {
@@ -161,7 +169,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-07T01:17:13.398132+00:00",
+          "seen": "2026-11-07T07:17:40.056273+00:00",
           "niche": "software"
         },
         {
@@ -217,7 +225,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-07T01:17:13.398132+00:00",
+          "seen": "2026-11-07T07:17:40.056273+00:00",
           "niche": "software"
         },
         {
@@ -348,7 +356,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-07T01:17:13.398132+00:00",
+          "seen": "2026-11-07T07:17:40.056273+00:00",
           "niche": "workflow"
         }
       ],
