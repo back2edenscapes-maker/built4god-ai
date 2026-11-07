@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-07T13:08:11.132915+00:00
+2026-11-07T18:59:41.915560+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -22,6 +22,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition) (Hacker News RSS, 2026-11-07T09:39:06+00:00)
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering) (GitHub Blog, 2026-11-06T22:15:59+00:00)
 - [A new Go API for JSON](https://go.dev/blog/jsonv2) (Hacker News RSS, 2026-11-04T17:52:11+00:00)
 - [Valve "played capitalism so well they broke it" and now Steam can't be replaced](https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable) (Hacker News RSS, 2026-11-02T20:42:36+00:00)

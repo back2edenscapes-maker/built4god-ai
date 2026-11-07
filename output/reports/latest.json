@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:08:11.132915+00:00",
+  "generated_at": "2026-11-07T18:59:41.915560+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -159,17 +159,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 21,
+      "demand_signal_count": 22,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition",
+          "title": "Running a law firm on Free software",
+          "source": "Hacker News RSS",
+          "published": "2026-11-07T09:39:06+00:00",
+          "seen": "2026-11-07T18:59:41.048775+00:00",
+          "niche": "software"
+        },
+        {
           "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-07T13:08:10.777248+00:00",
+          "seen": "2026-11-07T18:59:41.048775+00:00",
           "niche": "software"
         },
         {
@@ -225,7 +233,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-07T13:08:10.777248+00:00",
+          "seen": "2026-11-07T18:59:41.048775+00:00",
           "niche": "software"
         },
         {
@@ -356,7 +364,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-07T13:08:10.777248+00:00",
+          "seen": "2026-11-07T18:59:41.048775+00:00",
           "niche": "workflow"
         }
       ],
