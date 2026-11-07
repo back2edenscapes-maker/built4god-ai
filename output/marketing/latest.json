@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:08:36.323339+00:00",
+  "generated_at": "2026-11-07T08:59:54.646491+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -53,7 +53,12 @@
       "published_url": null
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "Hacker News RSS",
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    }
+  ],
   "research": [
     {
       "id": "software",
@@ -71,6 +76,14 @@
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+          "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
+          "source": "GitHub Blog",
+          "published": "2026-11-06T22:15:59+00:00",
+          "seen": "2026-11-07T08:59:54.647005+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://www.gamesradar.com/games/valve-played-capitalism-so-well-they-broke-it-and-now-steam-can-never-be-replaced-former-epic-dev-says-i-dont-think-this-is-fixable",
           "title": "Valve \"played capitalism so well they broke it\" and now Steam can't be replaced",
@@ -100,7 +113,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-06T09:08:36.323827+00:00",
+          "seen": "2026-11-07T08:59:54.647005+00:00",
           "niche": "software"
         },
         {
@@ -149,14 +162,6 @@
           "source": "GitHub Blog",
           "published": "2026-10-15T19:39:27+00:00",
           "seen": "2026-11-05T09:13:11.644625+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software",
-          "title": "Secret protection must scale with software",
-          "source": "GitHub Blog",
-          "published": "2026-10-07T17:45:34+00:00",
-          "seen": "2026-10-20T08:48:23.855782+00:00",
           "niche": "software"
         }
       ],
@@ -234,7 +239,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-06T09:08:36.323827+00:00",
+          "seen": "2026-11-07T08:59:54.647005+00:00",
           "niche": "workflow"
         }
       ],
