@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:59:54.646491+00:00",
+  "generated_at": "2026-11-08T08:59:29.847204+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -53,12 +53,7 @@
       "published_url": null
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
-    }
-  ],
+  "source_errors": [],
   "research": [
     {
       "id": "software",
@@ -81,7 +76,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-07T08:59:54.647005+00:00",
+          "seen": "2026-11-08T08:59:29.847617+00:00",
           "niche": "software"
         },
         {
@@ -113,7 +108,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-07T08:59:54.647005+00:00",
+          "seen": "2026-11-08T08:59:29.847617+00:00",
           "niche": "software"
         },
         {
@@ -239,7 +234,7 @@
           "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
           "source": "GitHub Blog",
           "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-07T08:59:54.647005+00:00",
+          "seen": "2026-11-08T08:59:29.847617+00:00",
           "niche": "workflow"
         }
       ],
