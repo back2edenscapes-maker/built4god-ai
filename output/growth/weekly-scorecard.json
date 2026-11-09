@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T08:59:31.894Z",
+  "generated_at": "2026-11-09T09:23:24.345Z",
   "period": {
-    "start_utc": "2026-11-02T00:00:00+00:00",
-    "end_exclusive_utc": "2026-11-09T00:00:00+00:00",
+    "start_utc": "2026-11-09T00:00:00+00:00",
+    "end_exclusive_utc": "2026-11-16T00:00:00+00:00",
     "counts": {
       "visit": 0,
       "preview": 0,
