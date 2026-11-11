@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-10T19:12:29.284888+00:00
+2026-11-11T01:22:29.554546+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) (Hacker News RSS, 2026-11-10T17:55:07+00:00)
 - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com) (Hacker News RSS, 2026-11-10T03:59:39+00:00)
 - [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) (Hacker News RSS, 2026-11-06T22:50:43+00:00)
 - [Google has acquired Crusoe's data center site in southeast Wyoming](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) (Hacker News RSS, 2026-11-06T20:09:14+00:00)
@@ -51,7 +52,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
 
 ## Source errors
-[]
+[{"source": "GitHub Blog", "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"}]
 
 ## Recorded revenue
 []

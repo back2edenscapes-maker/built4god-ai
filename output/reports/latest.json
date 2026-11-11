@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:12:29.284888+00:00",
+  "generated_at": "2026-11-11T01:22:29.554546+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 17,
+      "demand_signal_count": 18,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+          "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+          "source": "Hacker News RSS",
+          "published": "2026-11-10T17:55:07+00:00",
+          "seen": "2026-11-11T01:22:21.377481+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.ultorg.com",
           "title": "Ultorg: The User Interface for Relational Databases",
@@ -387,7 +395,12 @@
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "GitHub Blog",
+      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
+    }
+  ],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
