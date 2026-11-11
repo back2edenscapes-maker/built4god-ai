@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-11T13:27:33.543785+00:00
+2026-11-11T19:15:40.595140+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter) (Hacker News RSS, 2026-11-11T16:38:44+00:00)
 - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) (Hacker News RSS, 2026-11-10T17:55:07+00:00)
 - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com) (Hacker News RSS, 2026-11-10T03:59:39+00:00)
 - [ChatGPT silently passes data between connectors and the bounty wants an ID card](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) (Hacker News RSS, 2026-11-06T22:50:43+00:00)
@@ -24,6 +25,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster) (Hacker News RSS, 2026-11-11T16:33:28+00:00)
 - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign) (Hacker News RSS, 2026-11-08T15:57:37+00:00)
 - [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition) (Hacker News RSS, 2026-11-07T09:39:06+00:00)
 - [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering) (GitHub Blog, 2026-11-06T22:15:59+00:00)

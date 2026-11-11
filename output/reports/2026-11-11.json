@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:27:33.543785+00:00",
+  "generated_at": "2026-11-11T19:15:40.595140+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 18,
+      "demand_signal_count": 19,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter",
+          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "source": "Hacker News RSS",
+          "published": "2026-11-11T16:38:44+00:00",
+          "seen": "2026-11-11T19:15:40.244164+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
           "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
@@ -175,11 +183,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 23,
+      "demand_signal_count": 24,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://cabird.com/talks/shipping-faster",
+          "title": "AI, activity, and outcomes in software engineering",
+          "source": "Hacker News RSS",
+          "published": "2026-11-11T16:33:28+00:00",
+          "seen": "2026-11-11T19:15:40.244164+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
           "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
@@ -201,7 +217,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-11T13:27:30.960552+00:00",
+          "seen": "2026-11-11T19:15:40.244164+00:00",
           "niche": "software"
         },
         {
@@ -257,7 +273,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-11T13:27:30.960552+00:00",
+          "seen": "2026-11-11T19:15:40.244164+00:00",
           "niche": "software"
         },
         {
