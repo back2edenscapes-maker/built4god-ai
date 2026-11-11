@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:22:29.554546+00:00",
+  "generated_at": "2026-11-11T07:31:28.816298+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -22,7 +22,7 @@
           "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
           "source": "Hacker News RSS",
           "published": "2026-11-10T17:55:07+00:00",
-          "seen": "2026-11-11T01:22:21.377481+00:00",
+          "seen": "2026-11-11T07:31:25.492796+00:00",
           "niche": "data"
         },
         {
@@ -201,7 +201,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-10T19:12:28.828683+00:00",
+          "seen": "2026-11-11T07:31:25.492796+00:00",
           "niche": "software"
         },
         {
@@ -257,7 +257,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-10T19:12:28.828683+00:00",
+          "seen": "2026-11-11T07:31:25.492796+00:00",
           "niche": "software"
         },
         {
@@ -395,12 +395,7 @@
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "GitHub Blog",
-      "error": "URLError: <urlopen error [Errno 104] Connection reset by peer>"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
