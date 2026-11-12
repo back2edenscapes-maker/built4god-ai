@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-12T07:17:57.206005+00:00
+2026-11-12T19:58:52.828799+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -25,6 +25,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little) (Hacker News RSS, 2026-11-12T14:05:28+00:00)
 - [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster) (Hacker News RSS, 2026-11-11T16:33:28+00:00)
 - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign) (Hacker News RSS, 2026-11-08T15:57:37+00:00)
 - [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition) (Hacker News RSS, 2026-11-07T09:39:06+00:00)
