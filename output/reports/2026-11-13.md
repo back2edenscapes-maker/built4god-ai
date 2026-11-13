@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-13T06:50:46.113810+00:00
+2026-11-13T19:47:18.044736+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -26,6 +26,8 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749) (Hacker News RSS, 2026-11-13T16:55:59+00:00)
+- [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) (Hacker News RSS, 2026-11-13T15:08:44+00:00)
 - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html) (Hacker News RSS, 2026-11-12T21:09:49+00:00)
 - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little) (Hacker News RSS, 2026-11-12T14:05:28+00:00)
 - [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster) (Hacker News RSS, 2026-11-11T16:33:28+00:00)
