@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:58:52.828799+00:00",
+  "generated_at": "2026-11-13T06:50:46.113810+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 19,
+      "demand_signal_count": 20,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
+          "title": "Data centers need power \u2013 lower income, rural residents pay the price",
+          "source": "Hacker News RSS",
+          "published": "2026-11-12T19:53:54+00:00",
+          "seen": "2026-11-13T06:50:45.597498+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter",
           "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
@@ -183,11 +191,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 25,
+      "demand_signal_count": 26,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "source": "Hacker News RSS",
+          "published": "2026-11-12T21:09:49+00:00",
+          "seen": "2026-11-13T06:50:45.597498+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little",
           "title": "Our software engineering interviews are changing a little",
@@ -225,7 +241,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-12T19:58:52.448843+00:00",
+          "seen": "2026-11-13T06:50:45.597498+00:00",
           "niche": "software"
         },
         {
@@ -281,7 +297,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-12T19:58:52.448843+00:00",
+          "seen": "2026-11-13T06:50:45.597498+00:00",
           "niche": "software"
         },
         {

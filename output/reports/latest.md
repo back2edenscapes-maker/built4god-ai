@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-12T19:58:52.828799+00:00
+2026-11-13T06:50:46.113810+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price) (Hacker News RSS, 2026-11-12T19:53:54+00:00)
 - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter) (Hacker News RSS, 2026-11-11T16:38:44+00:00)
 - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) (Hacker News RSS, 2026-11-10T17:55:07+00:00)
 - [Ultorg: The User Interface for Relational Databases](https://www.ultorg.com) (Hacker News RSS, 2026-11-10T03:59:39+00:00)
@@ -25,6 +26,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html) (Hacker News RSS, 2026-11-12T21:09:49+00:00)
 - [Our software engineering interviews are changing a little](https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little) (Hacker News RSS, 2026-11-12T14:05:28+00:00)
 - [AI, activity, and outcomes in software engineering](https://cabird.com/talks/shipping-faster) (Hacker News RSS, 2026-11-11T16:33:28+00:00)
 - [UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign) (Hacker News RSS, 2026-11-08T15:57:37+00:00)
