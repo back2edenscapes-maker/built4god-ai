@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T18:10:30.222273+00:00",
+  "generated_at": "2026-11-14T22:29:30.779720+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 20,
+      "demand_signal_count": 21,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14",
+          "title": "Italy fines Meta $887M over Android users' data access",
+          "source": "Hacker News RSS",
+          "published": "2026-11-14T13:48:06+00:00",
+          "seen": "2026-11-14T22:29:30.653603+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price",
           "title": "Data centers need power \u2013 lower income, rural residents pay the price",
@@ -191,11 +199,27 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 28,
+      "demand_signal_count": 29,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://github.com/IRS-Public/direct-file",
+          "title": "US IRS free online tax filing open source repo (2025)",
+          "source": "Hacker News RSS",
+          "published": "2026-11-14T17:48:20+00:00",
+          "seen": "2026-11-14T22:29:30.653603+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles",
+          "title": "A Family Tree of Software Job Titles",
+          "source": "Hacker News RSS",
+          "published": "2026-11-14T17:45:19+00:00",
+          "seen": "2026-11-14T22:29:30.653603+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://status.apify.com/incidents/sxd1dj5j6749",
           "title": "Apify Security Incident",
@@ -257,7 +281,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-14T18:10:09.857518+00:00",
+          "seen": "2026-11-14T22:29:30.653603+00:00",
           "niche": "software"
         },
         {
@@ -313,7 +337,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-14T18:10:09.857518+00:00",
+          "seen": "2026-11-14T22:29:30.653603+00:00",
           "niche": "software"
         },
         {
@@ -411,14 +435,6 @@
           "published": "2026-10-17T18:45:07+00:00",
           "seen": "2026-10-18T12:51:37.657039+00:00",
           "niche": "software"
-        },
-        {
-          "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence",
-          "title": "The next developer interface is ambient intelligence",
-          "source": "GitHub Blog",
-          "published": "2026-10-15T19:39:27+00:00",
-          "seen": "2026-11-05T19:12:18.918252+00:00",
-          "niche": "software"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -451,12 +467,7 @@
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "URLError: <urlopen error timed out>"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }

@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-14T18:10:30.222273+00:00
+2026-11-14T22:29:30.779720+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14) (Hacker News RSS, 2026-11-14T13:48:06+00:00)
 - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price) (Hacker News RSS, 2026-11-12T19:53:54+00:00)
 - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter) (Hacker News RSS, 2026-11-11T16:38:44+00:00)
 - [Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) (Hacker News RSS, 2026-11-10T17:55:07+00:00)
@@ -26,6 +27,8 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file) (Hacker News RSS, 2026-11-14T17:48:20+00:00)
+- [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles) (Hacker News RSS, 2026-11-14T17:45:19+00:00)
 - [Apify Security Incident](https://status.apify.com/incidents/sxd1dj5j6749) (Hacker News RSS, 2026-11-13T16:55:59+00:00)
 - [Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]](https://www.youtube.com/watch?v=IRK8h67ol7Q) (Hacker News RSS, 2026-11-13T15:08:44+00:00)
 - [AI is turning Apple's app review process into a nightmare for synth developers](https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html) (Hacker News RSS, 2026-11-12T21:09:49+00:00)
@@ -53,13 +56,12 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software) (Hacker News RSS, 2026-10-18T16:32:00+00:00)
 - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes) (Hacker News RSS, 2026-10-18T10:21:51+00:00)
 - [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (Hacker News RSS, 2026-10-17T18:45:07+00:00)
-- [The next developer interface is ambient intelligence](https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence) (GitHub Blog, 2026-10-15T19:39:27+00:00)
 ## Workflow planning toolkit — priority 17/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
 
 ## Source errors
-[{"source": "Hacker News RSS", "error": "URLError: <urlopen error timed out>"}]
+[]
 
 ## Recorded revenue
 []
