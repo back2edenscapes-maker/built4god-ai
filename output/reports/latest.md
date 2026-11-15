@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-14T22:29:30.779720+00:00
+2026-11-15T06:40:25.215344+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Will we put data centers in space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space) (Hacker News RSS, 2026-11-14T17:35:33+00:00)
 - [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14) (Hacker News RSS, 2026-11-14T13:48:06+00:00)
 - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price) (Hacker News RSS, 2026-11-12T19:53:54+00:00)
 - [A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter) (Hacker News RSS, 2026-11-11T16:38:44+00:00)
