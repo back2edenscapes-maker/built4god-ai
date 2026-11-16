@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-16T06:37:06.936208+00:00
+2026-11-16T22:10:41.728023+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan) (Hacker News RSS, 2026-11-16T18:04:55+00:00)
 - [Will we put data centers in space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space) (Hacker News RSS, 2026-11-14T17:35:33+00:00)
 - [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14) (Hacker News RSS, 2026-11-14T13:48:06+00:00)
 - [Data centers need power – lower income, rural residents pay the price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price) (Hacker News RSS, 2026-11-12T19:53:54+00:00)
@@ -28,6 +29,8 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me) (Hacker News RSS, 2026-11-16T20:16:50+00:00)
+- [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level) (Hacker News RSS, 2026-11-16T18:17:17+00:00)
 - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) (Hacker News RSS, 2026-11-16T00:21:54+00:00)
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source) (Hacker News RSS, 2026-11-15T14:46:58+00:00)
 - [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file) (Hacker News RSS, 2026-11-14T17:48:20+00:00)
@@ -58,7 +61,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time) (Hacker News RSS, 2026-10-18T19:02:11+00:00)
 - [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software) (Hacker News RSS, 2026-10-18T16:32:00+00:00)
 - [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes) (Hacker News RSS, 2026-10-18T10:21:51+00:00)
-- [Microsoft and CMU team up to train early career software engineers](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise) (Hacker News RSS, 2026-10-17T18:45:07+00:00)
 ## Workflow planning toolkit — priority 17/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)

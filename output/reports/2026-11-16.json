@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:37:06.936208+00:00",
+  "generated_at": "2026-11-16T22:10:41.728023+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 22,
+      "demand_signal_count": 23,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan",
+          "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+          "source": "Hacker News RSS",
+          "published": "2026-11-16T18:04:55+00:00",
+          "seen": "2026-11-16T22:10:30.202568+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
           "title": "Will we put data centers in space?",
@@ -207,11 +215,27 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 31,
+      "demand_signal_count": 32,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://blog.startifact.com/posts/how-rust-changed-me",
+          "title": "Rust changed me as a developer",
+          "source": "Hacker News RSS",
+          "published": "2026-11-16T20:16:50+00:00",
+          "seen": "2026-11-16T22:10:30.202568+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level",
+          "title": "Software is breaking down at a systemic level",
+          "source": "Hacker News RSS",
+          "published": "2026-11-16T18:17:17+00:00",
+          "seen": "2026-11-16T22:10:30.202568+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
           "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
@@ -305,7 +329,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-16T06:37:06.601117+00:00",
+          "seen": "2026-11-16T22:10:30.202568+00:00",
           "niche": "software"
         },
         {
@@ -361,7 +385,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-16T06:37:06.601117+00:00",
+          "seen": "2026-11-16T22:10:30.202568+00:00",
           "niche": "software"
         },
         {
@@ -450,14 +474,6 @@
           "source": "Hacker News RSS",
           "published": "2026-10-18T10:21:51+00:00",
           "seen": "2026-10-18T18:46:34.508407+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-          "title": "Microsoft and CMU team up to train early career software engineers",
-          "source": "Hacker News RSS",
-          "published": "2026-10-17T18:45:07+00:00",
-          "seen": "2026-10-18T12:51:37.657039+00:00",
           "niche": "software"
         }
       ],
