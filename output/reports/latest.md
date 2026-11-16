@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-15T18:54:38.774115+00:00
+2026-11-16T06:37:06.936208+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -28,6 +28,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) (Hacker News RSS, 2026-11-16T00:21:54+00:00)
 - [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source) (Hacker News RSS, 2026-11-15T14:46:58+00:00)
 - [US IRS free online tax filing open source repo (2025)](https://github.com/IRS-Public/direct-file) (Hacker News RSS, 2026-11-14T17:48:20+00:00)
 - [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles) (Hacker News RSS, 2026-11-14T17:45:19+00:00)
