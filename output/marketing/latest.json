@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T18:35:05.328379+00:00",
+  "generated_at": "2026-11-17T17:38:23.174006+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -141,11 +141,27 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 12,
+      "demand_signal_count": 13,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps",
+          "title": "We don't need more apps. We need better open source",
+          "source": "Hacker News RSS",
+          "published": "2026-11-17T14:45:36+00:00",
+          "seen": "2026-11-17T17:38:23.174459+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+          "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+          "source": "Hacker News RSS",
+          "published": "2026-11-17T01:35:16+00:00",
+          "seen": "2026-11-17T17:38:23.174459+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
           "title": "Microsoft blames monster email outage on software defect introduced in July fix",
@@ -167,7 +183,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-16T18:35:05.328776+00:00",
+          "seen": "2026-11-17T17:38:23.174459+00:00",
           "niche": "software"
         },
         {
@@ -199,7 +215,7 @@
           "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
           "source": "GitHub Blog",
           "published": "2026-10-28T16:07:40+00:00",
-          "seen": "2026-11-16T18:35:05.328776+00:00",
+          "seen": "2026-11-17T17:38:23.174459+00:00",
           "niche": "software"
         },
         {
@@ -232,14 +248,6 @@
           "source": "Hacker News RSS",
           "published": "2026-10-18T19:02:11+00:00",
           "seen": "2026-10-19T08:52:40.894742+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-          "title": "Microsoft and CMU team up to train early career software engineers",
-          "source": "Hacker News RSS",
-          "published": "2026-10-17T18:45:07+00:00",
-          "seen": "2026-10-18T08:43:12.240666+00:00",
           "niche": "software"
         }
       ],
