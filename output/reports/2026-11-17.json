@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:59:12.887592+00:00",
+  "generated_at": "2026-11-17T20:59:11.420878+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -223,7 +223,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 32,
+      "demand_signal_count": 29,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -337,7 +337,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-17T07:59:12.746224+00:00",
+          "seen": "2026-11-17T20:59:11.222708+00:00",
           "niche": "software"
         },
         {
@@ -458,30 +458,6 @@
           "source": "Hacker News RSS",
           "published": "2026-10-22T22:54:43+00:00",
           "seen": "2026-10-23T12:58:29.277355+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time",
-          "title": "Personal software factories are a waste of time",
-          "source": "Hacker News RSS",
-          "published": "2026-10-18T19:02:11+00:00",
-          "seen": "2026-10-19T13:00:52.114814+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://karrisaarinen.com/posts/someone-behind-the-software",
-          "title": "Someone behind the software",
-          "source": "Hacker News RSS",
-          "published": "2026-10-18T16:32:00+00:00",
-          "seen": "2026-10-19T07:06:47.150806+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes",
-          "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-          "source": "Hacker News RSS",
-          "published": "2026-10-18T10:21:51+00:00",
-          "seen": "2026-10-18T18:46:34.508407+00:00",
           "niche": "software"
         }
       ],

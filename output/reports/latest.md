@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-17T07:59:12.887592+00:00
+2026-11-17T20:59:11.420878+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -59,9 +59,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious) (Hacker News RSS, 2026-10-24T21:47:31+00:00)
 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
 - [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (Hacker News RSS, 2026-10-22T22:54:43+00:00)
-- [Personal software factories are a waste of time](https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time) (Hacker News RSS, 2026-10-18T19:02:11+00:00)
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software) (Hacker News RSS, 2026-10-18T16:32:00+00:00)
-- [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes) (Hacker News RSS, 2026-10-18T10:21:51+00:00)
 ## Workflow planning toolkit — priority 17/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
