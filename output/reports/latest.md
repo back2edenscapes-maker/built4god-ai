@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-16T22:10:41.728023+00:00
+2026-11-17T07:59:12.887592+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry) (Hacker News RSS, 2026-11-16T22:58:20+00:00)
 - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan) (Hacker News RSS, 2026-11-16T18:04:55+00:00)
 - [Will we put data centers in space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space) (Hacker News RSS, 2026-11-14T17:35:33+00:00)
 - [Italy fines Meta $887M over Android users' data access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14) (Hacker News RSS, 2026-11-14T13:48:06+00:00)
