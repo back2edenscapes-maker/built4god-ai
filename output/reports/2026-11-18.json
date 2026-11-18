@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:35:21.380290+00:00",
+  "generated_at": "2026-11-18T20:36:54.063670+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,7 +12,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 24,
+      "demand_signal_count": 23,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -200,14 +200,6 @@
           "published": "2026-10-20T22:26:40+00:00",
           "seen": "2026-10-21T13:01:23.306244+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://github.com/kividbio/kividb",
-          "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-          "source": "Hacker News RSS",
-          "published": "2026-10-19T13:53:52+00:00",
-          "seen": "2026-10-19T18:58:15.225001+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -337,7 +329,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-18T07:35:18.978766+00:00",
+          "seen": "2026-11-18T20:36:46.318882+00:00",
           "niche": "software"
         },
         {
@@ -491,7 +483,12 @@
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source": "Hacker News RSS",
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    }
+  ],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }

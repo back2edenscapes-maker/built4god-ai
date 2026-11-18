@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-18T07:35:21.380290+00:00
+2026-11-18T20:36:54.063670+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -27,7 +27,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
 - [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) (Hacker News RSS, 2026-10-21T13:37:00+00:00)
 - [Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful](https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful) (Hacker News RSS, 2026-10-20T22:26:40+00:00)
-- [Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb) (Hacker News RSS, 2026-10-19T13:53:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me) (Hacker News RSS, 2026-11-16T20:16:50+00:00)
@@ -64,7 +63,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
 
 ## Source errors
-[]
+[{"source": "Hacker News RSS", "error": "HTTPError: HTTP Error 502: Bad Gateway"}]
 
 ## Recorded revenue
 []
