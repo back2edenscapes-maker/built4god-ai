@@ -1,5 +1,5 @@
 # Weekly customer acquisition scorecard
-2026-11-17T17:38:25.889Z
+2026-11-18T17:16:36.220Z
 
 Week: 2026-11-16T00:00:00+00:00 to 2026-11-23T00:00:00+00:00 (end excluded).
 Partial until a full week has elapsed since analytics activation. QA/bots/reloads can be included.
