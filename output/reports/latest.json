@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:36:54.063670+00:00",
+  "generated_at": "2026-11-19T07:31:37.771748+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -215,11 +215,27 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 29,
+      "demand_signal_count": 31,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://lateblt.livejournal.com/526188.html",
+          "title": "Software companies are trying to kill home computing?",
+          "source": "Hacker News RSS",
+          "published": "2026-11-18T23:49:18+00:00",
+          "seen": "2026-11-19T07:31:35.299667+00:00",
+          "niche": "software"
+        },
+        {
+          "url": "https://foss.life/notes/2026/free-software-isnt-free-enough",
+          "title": "When Free Software Isn't Free Enough",
+          "source": "Hacker News RSS",
+          "published": "2026-11-18T18:39:28+00:00",
+          "seen": "2026-11-19T07:31:35.299667+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://blog.startifact.com/posts/how-rust-changed-me",
           "title": "Rust changed me as a developer",
@@ -329,7 +345,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-18T20:36:46.318882+00:00",
+          "seen": "2026-11-19T07:31:35.299667+00:00",
           "niche": "software"
         },
         {
@@ -483,12 +499,7 @@
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }

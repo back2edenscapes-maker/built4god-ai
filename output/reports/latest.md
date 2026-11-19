@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-18T20:36:54.063670+00:00
+2026-11-19T07:31:37.771748+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -29,6 +29,8 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful](https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful) (Hacker News RSS, 2026-10-20T22:26:40+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Software companies are trying to kill home computing?](https://lateblt.livejournal.com/526188.html) (Hacker News RSS, 2026-11-18T23:49:18+00:00)
+- [When Free Software Isn't Free Enough](https://foss.life/notes/2026/free-software-isnt-free-enough) (Hacker News RSS, 2026-11-18T18:39:28+00:00)
 - [Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me) (Hacker News RSS, 2026-11-16T20:16:50+00:00)
 - [Software is breaking down at a systemic level](https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level) (Hacker News RSS, 2026-11-16T18:17:17+00:00)
 - [Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack](https://forum.torproject.org/t/security-release-0-4-9-17/22454) (Hacker News RSS, 2026-11-16T00:21:54+00:00)
@@ -63,7 +65,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity) (GitHub Blog, 2026-10-20T16:05:03+00:00)
 
 ## Source errors
-[{"source": "Hacker News RSS", "error": "HTTPError: HTTP Error 502: Bad Gateway"}]
+[]
 
 ## Recorded revenue
 []
