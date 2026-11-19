@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:16:34.778235+00:00",
+  "generated_at": "2026-11-19T17:23:13.623771+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -141,11 +141,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 12,
+      "demand_signal_count": 13,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together",
+          "title": "The best things in open source are built together",
+          "source": "GitHub Blog",
+          "published": "2026-11-19T16:00:00+00:00",
+          "seen": "2026-11-19T17:23:13.624139+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps",
           "title": "We don't need more apps. We need better open source",
@@ -183,7 +191,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-18T17:16:34.778633+00:00",
+          "seen": "2026-11-19T17:23:13.624139+00:00",
           "niche": "software"
         },
         {
@@ -241,33 +249,6 @@
           "published": "2026-10-22T22:54:43+00:00",
           "seen": "2026-10-23T08:48:30.720441+00:00",
           "niche": "software"
-        }
-      ],
-      "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
-    },
-    {
-      "id": "workflow",
-      "title": "Workflow planning toolkit",
-      "score": 17,
-      "dimensions_1_to_5": {
-        "startup_cost": 5,
-        "competition": 1,
-        "automation_feasibility": 4,
-        "potential_revenue": 1,
-        "speed_to_launch": 5
-      },
-      "demand_signal_count": 1,
-      "competition_status": "unverified",
-      "revenue_status": "unverified",
-      "startup_cost_usd": 0,
-      "evidence": [
-        {
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity",
-          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-          "source": "GitHub Blog",
-          "published": "2026-10-20T16:05:03+00:00",
-          "seen": "2026-11-10T09:02:21.485636+00:00",
-          "niche": "workflow"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
