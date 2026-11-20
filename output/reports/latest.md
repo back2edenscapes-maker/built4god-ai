@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-19T20:42:10.565483+00:00
+2026-11-20T07:22:37.101860+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) (Hacker News RSS, 2026-11-19T23:32:11+00:00)
 - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry) (Hacker News RSS, 2026-11-16T22:58:20+00:00)
 - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan) (Hacker News RSS, 2026-11-16T18:04:55+00:00)
 - [Will we put data centers in space?](https://www.forethought.org/research/will-we-really-put-data-centers-in-space) (Hacker News RSS, 2026-11-14T17:35:33+00:00)
@@ -26,7 +27,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
 - [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
 - [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) (Hacker News RSS, 2026-10-21T13:37:00+00:00)
-- [Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful](https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful) (Hacker News RSS, 2026-10-20T22:26:40+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook) (Hacker News RSS, 2026-11-19T16:34:04+00:00)
