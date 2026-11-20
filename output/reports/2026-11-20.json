@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:22:37.101860+00:00",
+  "generated_at": "2026-11-20T20:26:39.863640+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,7 +12,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 23,
+      "demand_signal_count": 22,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -192,14 +192,6 @@
           "published": "2026-10-22T20:51:23+00:00",
           "seen": "2026-10-23T07:01:30.388370+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "title": "Using thousands of AI agents to uncover new leads in biological data",
-          "source": "Hacker News RSS",
-          "published": "2026-10-21T13:37:00+00:00",
-          "seen": "2026-10-21T18:57:16.721237+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -215,11 +207,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 33,
+      "demand_signal_count": 34,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://manidoraisamy.com/developer-to-architect.html",
+          "title": "We promoted developers into architects without informing them",
+          "source": "Hacker News RSS",
+          "published": "2026-11-20T18:17:51+00:00",
+          "seen": "2026-11-20T20:26:39.212967+00:00",
+          "niche": "software"
+        },
         {
           "url": "https://github.com/onlook-dev/onlook",
           "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
@@ -233,7 +233,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-20T07:22:36.682187+00:00",
+          "seen": "2026-11-20T20:26:39.212967+00:00",
           "niche": "software"
         },
         {
@@ -361,7 +361,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-20T07:22:36.682187+00:00",
+          "seen": "2026-11-20T20:26:39.212967+00:00",
           "niche": "software"
         },
         {

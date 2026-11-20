@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-20T07:22:37.101860+00:00
+2026-11-20T20:26:39.863640+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -26,9 +26,9 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News RSS, 2026-10-23T19:34:15+00:00)
 - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
 - [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
-- [Using thousands of AI agents to uncover new leads in biological data](https://openai.com/index/scaling-ai-research-for-complex-biological-data) (Hacker News RSS, 2026-10-21T13:37:00+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (Hacker News RSS, 2026-11-20T18:17:51+00:00)
 - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook) (Hacker News RSS, 2026-11-19T16:34:04+00:00)
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together) (GitHub Blog, 2026-11-19T16:00:00+00:00)
 - [Software companies are trying to kill home computing?](https://lateblt.livejournal.com/526188.html) (Hacker News RSS, 2026-11-18T23:49:18+00:00)
