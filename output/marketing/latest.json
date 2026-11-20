@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:23:13.623771+00:00",
+  "generated_at": "2026-11-20T16:58:34.129079+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -66,7 +66,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 7,
+      "demand_signal_count": 6,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -118,14 +118,6 @@
           "published": "2026-10-22T20:51:23+00:00",
           "seen": "2026-10-23T08:48:30.720441+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
-          "title": "Victory! Court Rules OPM Data Disclosure to DOGE Is Unlawful",
-          "source": "Hacker News RSS",
-          "published": "2026-10-20T22:26:40+00:00",
-          "seen": "2026-10-21T08:50:24.768124+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -151,7 +143,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-19T17:23:13.624139+00:00",
+          "seen": "2026-11-20T16:58:34.129467+00:00",
           "niche": "software"
         },
         {
@@ -191,7 +183,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-19T17:23:13.624139+00:00",
+          "seen": "2026-11-20T16:58:34.129467+00:00",
           "niche": "software"
         },
         {
