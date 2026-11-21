@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T16:58:34.129079+00:00",
+  "generated_at": "2026-11-21T16:10:17.902085+00:00",
   "mode": "research_and_drafts_only",
   "published_automatically": false,
   "new_drafts": [],
@@ -66,11 +66,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 6,
+      "demand_signal_count": 7,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "source": "Hacker News RSS",
+          "published": "2026-11-21T10:33:57+00:00",
+          "seen": "2026-11-21T16:10:17.902437+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://motherduck.com/blog/the-data-intelligence-engineer",
           "title": "The Dawn of the Data Intelligence Engineer",
@@ -143,7 +151,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-20T16:58:34.129467+00:00",
+          "seen": "2026-11-21T16:10:17.902437+00:00",
           "niche": "software"
         },
         {
@@ -183,7 +191,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-20T16:58:34.129467+00:00",
+          "seen": "2026-11-21T16:10:17.902437+00:00",
           "niche": "software"
         },
         {
