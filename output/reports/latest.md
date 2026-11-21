@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-20T20:26:39.863640+00:00
+2026-11-21T07:15:57.309084+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -28,6 +28,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
 - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (Hacker News RSS, 2026-11-20T18:17:51+00:00)
 - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook) (Hacker News RSS, 2026-11-19T16:34:04+00:00)
 - [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together) (GitHub Blog, 2026-11-19T16:00:00+00:00)

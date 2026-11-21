@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:26:39.863640+00:00",
+  "generated_at": "2026-11-21T07:15:57.309084+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -207,17 +207,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 34,
+      "demand_signal_count": 35,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://github.com/diggerhq/opencomputer",
+          "title": "Show HN: OpenComputer \u2013 an open source alternative to Devin",
+          "source": "Hacker News RSS",
+          "published": "2026-11-20T20:19:56+00:00",
+          "seen": "2026-11-21T07:15:56.194491+00:00",
+          "niche": "software"
+        },
+        {
           "url": "https://manidoraisamy.com/developer-to-architect.html",
           "title": "We promoted developers into architects without informing them",
           "source": "Hacker News RSS",
           "published": "2026-11-20T18:17:51+00:00",
-          "seen": "2026-11-20T20:26:39.212967+00:00",
+          "seen": "2026-11-21T07:15:56.194491+00:00",
           "niche": "software"
         },
         {
@@ -233,7 +241,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-20T20:26:39.212967+00:00",
+          "seen": "2026-11-21T07:15:56.194491+00:00",
           "niche": "software"
         },
         {
@@ -361,7 +369,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-20T20:26:39.212967+00:00",
+          "seen": "2026-11-21T07:15:56.194491+00:00",
           "niche": "software"
         },
         {
