@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T07:15:57.309084+00:00",
+  "generated_at": "2026-11-21T19:21:14.092404+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,11 +12,19 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 22,
+      "demand_signal_count": 23,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+          "title": "FBI reportedly investigating apparent hack of its criminal database",
+          "source": "Hacker News RSS",
+          "published": "2026-11-21T10:33:57+00:00",
+          "seen": "2026-11-21T19:21:06.299389+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
           "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
@@ -241,7 +249,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-21T07:15:56.194491+00:00",
+          "seen": "2026-11-21T19:21:06.299389+00:00",
           "niche": "software"
         },
         {
@@ -369,7 +377,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-21T07:15:56.194491+00:00",
+          "seen": "2026-11-21T19:21:06.299389+00:00",
           "niche": "software"
         },
         {

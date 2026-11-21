@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-21T07:15:57.309084+00:00
+2026-11-21T19:21:14.092404+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (Hacker News RSS, 2026-11-21T10:33:57+00:00)
 - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) (Hacker News RSS, 2026-11-19T23:32:11+00:00)
 - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry) (Hacker News RSS, 2026-11-16T22:58:20+00:00)
 - [Just 400 US Data Centers Use More Electricity Than Michigan](https://www.wired.com/story/data-centers-use-more-electricity-than-michigan) (Hacker News RSS, 2026-11-16T18:04:55+00:00)
