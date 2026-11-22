@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-21T19:21:14.092404+00:00
+2026-11-22T06:56:18.836961+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers) (Hacker News RSS, 2026-11-22T02:14:14+00:00)
 - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (Hacker News RSS, 2026-11-21T10:33:57+00:00)
 - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) (Hacker News RSS, 2026-11-19T23:32:11+00:00)
 - [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry) (Hacker News RSS, 2026-11-16T22:58:20+00:00)
@@ -26,7 +27,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report) (Hacker News RSS, 2026-10-24T14:38:34+00:00)
 - [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News RSS, 2026-10-23T19:34:15+00:00)
 - [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
-- [Most Americans Say AI Is Bad for Society, Oppose More Data Centers](https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085) (Hacker News RSS, 2026-10-22T20:51:23+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
@@ -63,7 +63,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News RSS, 2026-10-25T14:05:03+00:00)
 - [We should be more ambitious with the software we build](https://danluu.com/ambitious) (Hacker News RSS, 2026-10-24T21:47:31+00:00)
 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) (Hacker News RSS, 2026-10-22T22:54:43+00:00)
 
 ## Source errors
 []
