@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:56:18.836961+00:00",
+  "generated_at": "2026-11-22T19:44:49.756085+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,17 +12,25 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 23,
+      "demand_signal_count": 22,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
         {
+          "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update",
+          "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+          "source": "Hacker News RSS",
+          "published": "2026-11-22T15:16:02+00:00",
+          "seen": "2026-11-22T19:44:49.265867+00:00",
+          "niche": "data"
+        },
+        {
           "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
           "title": "Data Processing Incidents on Inference Providers",
           "source": "Hacker News RSS",
           "published": "2026-11-22T02:14:14+00:00",
-          "seen": "2026-11-22T06:56:14.214315+00:00",
+          "seen": "2026-11-22T19:44:49.265867+00:00",
           "niche": "data"
         },
         {
@@ -184,22 +192,6 @@
           "published": "2026-10-24T14:38:34+00:00",
           "seen": "2026-10-25T00:56:03.998738+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-          "source": "Hacker News RSS",
-          "published": "2026-10-23T19:34:15+00:00",
-          "seen": "2026-10-24T06:58:16.734920+00:00",
-          "niche": "data"
-        },
-        {
-          "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
-          "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
-          "source": "Hacker News RSS",
-          "published": "2026-10-23T12:56:38+00:00",
-          "seen": "2026-10-23T18:55:46.036782+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -249,7 +241,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-22T06:56:14.214315+00:00",
+          "seen": "2026-11-22T19:44:49.265867+00:00",
           "niche": "software"
         },
         {
@@ -377,7 +369,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-22T06:56:14.214315+00:00",
+          "seen": "2026-11-22T19:44:49.265867+00:00",
           "niche": "software"
         },
         {

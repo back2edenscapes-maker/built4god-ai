@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-22T06:56:18.836961+00:00
+2026-11-22T19:44:49.756085+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update) (Hacker News RSS, 2026-11-22T15:16:02+00:00)
 - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers) (Hacker News RSS, 2026-11-22T02:14:14+00:00)
 - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (Hacker News RSS, 2026-11-21T10:33:57+00:00)
 - [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87) (Hacker News RSS, 2026-11-19T23:32:11+00:00)
@@ -25,8 +26,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28) (Hacker News RSS, 2026-10-28T20:46:52+00:00)
 - [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News RSS, 2026-10-27T13:56:15+00:00)
 - [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report) (Hacker News RSS, 2026-10-24T14:38:34+00:00)
-- [Now Google says it might use your Gmail and Google Photos data to target ads](https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update) (Hacker News RSS, 2026-10-23T19:34:15+00:00)
-- [Hacker leaks 281 GB of data from Germany's far-right AfD party](https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd) (Hacker News RSS, 2026-10-23T12:56:38+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
