@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-22T19:44:49.756085+00:00
+2026-11-23T07:46:17.725525+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -64,7 +64,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
 
 ## Source errors
-[]
+[{"source": "Hacker News RSS", "error": "URLError: <urlopen error timed out>"}]
 
 ## Recorded revenue
 []
