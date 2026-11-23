@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-23T07:46:17.725525+00:00
+2026-11-23T23:57:28.021274+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -25,7 +25,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn) (Hacker News RSS, 2026-10-29T14:22:53+00:00)
 - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28) (Hacker News RSS, 2026-10-28T20:46:52+00:00)
 - [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News RSS, 2026-10-27T13:56:15+00:00)
-- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report) (Hacker News RSS, 2026-10-24T14:38:34+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
@@ -60,11 +59,9 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible) (Hacker News RSS, 2026-10-27T11:30:35+00:00)
 - [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) (Hacker News RSS, 2026-10-26T04:11:40+00:00)
 - [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News RSS, 2026-10-25T14:05:03+00:00)
-- [We should be more ambitious with the software we build](https://danluu.com/ambitious) (Hacker News RSS, 2026-10-24T21:47:31+00:00)
-- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move) (Hacker News RSS, 2026-10-24T16:06:26+00:00)
 
 ## Source errors
-[{"source": "Hacker News RSS", "error": "URLError: <urlopen error timed out>"}]
+[]
 
 ## Recorded revenue
 []

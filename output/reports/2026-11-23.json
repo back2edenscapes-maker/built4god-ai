@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T07:46:17.725525+00:00",
+  "generated_at": "2026-11-23T23:57:28.021274+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -12,7 +12,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 22,
+      "demand_signal_count": 21,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -184,14 +184,6 @@
           "published": "2026-10-27T13:56:15+00:00",
           "seen": "2026-10-27T18:58:11.948015+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report",
-          "title": "Google illegally cut down 250K trees in Finland for data center",
-          "source": "Hacker News RSS",
-          "published": "2026-10-24T14:38:34+00:00",
-          "seen": "2026-10-25T00:56:03.998738+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -207,7 +199,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 34,
+      "demand_signal_count": 32,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -241,7 +233,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-23T07:45:57.412015+00:00",
+          "seen": "2026-11-23T23:57:27.562910+00:00",
           "niche": "software"
         },
         {
@@ -369,7 +361,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-23T07:45:57.412015+00:00",
+          "seen": "2026-11-23T23:57:27.562910+00:00",
           "niche": "software"
         },
         {
@@ -467,33 +459,12 @@
           "published": "2026-10-25T14:05:03+00:00",
           "seen": "2026-10-25T18:50:30.323353+00:00",
           "niche": "software"
-        },
-        {
-          "url": "https://danluu.com/ambitious",
-          "title": "We should be more ambitious with the software we build",
-          "source": "Hacker News RSS",
-          "published": "2026-10-24T21:47:31+00:00",
-          "seen": "2026-10-25T12:55:08.353924+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://blog.roku.com/developer/gitlab-move",
-          "title": "Roku developer repositories moved from GitHub to GitLab",
-          "source": "Hacker News RSS",
-          "published": "2026-10-24T16:06:26+00:00",
-          "seen": "2026-10-25T00:56:03.998738+00:00",
-          "niche": "software"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
     }
   ],
-  "source_errors": [
-    {
-      "source": "Hacker News RSS",
-      "error": "URLError: <urlopen error timed out>"
-    }
-  ],
+  "source_errors": [],
   "verified_manual_revenue": [],
   "note": "Heuristic leads, not validated businesses or earnings forecasts."
 }
