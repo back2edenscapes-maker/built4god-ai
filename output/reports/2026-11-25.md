@@ -1,9 +1,10 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-25T08:42:21.589645+00:00
+2026-11-25T21:45:08.197409+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [SpaceX wins FCC approval to deploy 1M orbital data center satellites](https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html) (Hacker News RSS, 2026-11-25T18:59:43+00:00)
 - [Backblaze customers worried of personal data sale/sharing after policy update](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update) (Hacker News RSS, 2026-11-22T15:16:02+00:00)
 - [Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers) (Hacker News RSS, 2026-11-22T02:14:14+00:00)
 - [FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o) (Hacker News RSS, 2026-11-21T10:33:57+00:00)
