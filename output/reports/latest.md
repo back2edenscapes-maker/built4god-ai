@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-24T09:58:50.611631+00:00
+2026-11-25T08:42:21.589645+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -27,6 +27,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Is my data used for model training?](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training) (Hacker News RSS, 2026-10-27T13:56:15+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [These are the gifts developers will actually want](https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want) (GitHub Blog, 2026-11-24T16:00:00+00:00)
 - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
 - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (Hacker News RSS, 2026-11-20T18:17:51+00:00)
 - [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook) (Hacker News RSS, 2026-11-19T16:34:04+00:00)
@@ -57,8 +58,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News RSS, 2026-10-28T13:56:21+00:00)
 - [Valve Responds to Developers Fearing AI Slop and Clones](https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones) (Hacker News RSS, 2026-10-28T13:27:24+00:00)
 - [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible) (Hacker News RSS, 2026-10-27T11:30:35+00:00)
-- [Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) (Hacker News RSS, 2026-10-26T04:11:40+00:00)
-- [R/open source bans all solo projects and projects using LLMs](https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai) (Hacker News RSS, 2026-10-25T14:05:03+00:00)
 
 ## Source errors
 []
