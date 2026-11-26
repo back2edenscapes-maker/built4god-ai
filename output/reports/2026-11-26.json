@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:26:55.863877+00:00",
+  "generated_at": "2026-11-26T21:38:16.873042+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -17,6 +17,14 @@
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
       "evidence": [
+        {
+          "url": "https://github.com/gary23w/f-ck_data_brokers",
+          "title": "Show HN: Fuck_data_brokers.py",
+          "source": "Hacker News RSS",
+          "published": "2026-11-26T18:37:21+00:00",
+          "seen": "2026-11-26T21:38:15.267974+00:00",
+          "niche": "data"
+        },
         {
           "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
           "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
@@ -184,14 +192,6 @@
           "published": "2026-10-28T20:46:52+00:00",
           "seen": "2026-10-29T07:15:04.909749+00:00",
           "niche": "data"
-        },
-        {
-          "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-          "title": "Is my data used for model training?",
-          "source": "Hacker News RSS",
-          "published": "2026-10-27T13:56:15+00:00",
-          "seen": "2026-10-27T18:58:11.948015+00:00",
-          "niche": "data"
         }
       ],
       "validation_required": "News relevance is not purchase intent. Interview buyers and compare alternatives before listing."
@@ -207,7 +207,7 @@
         "potential_revenue": 1,
         "speed_to_launch": 5
       },
-      "demand_signal_count": 31,
+      "demand_signal_count": 30,
       "competition_status": "unverified",
       "revenue_status": "unverified",
       "startup_cost_usd": 0,
@@ -217,7 +217,7 @@
           "title": "These are the gifts developers will actually want",
           "source": "GitHub Blog",
           "published": "2026-11-24T16:00:00+00:00",
-          "seen": "2026-11-26T08:26:55.459151+00:00",
+          "seen": "2026-11-26T21:38:15.267974+00:00",
           "niche": "software"
         },
         {
@@ -249,7 +249,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-26T08:26:55.459151+00:00",
+          "seen": "2026-11-26T21:38:15.267974+00:00",
           "niche": "software"
         },
         {
@@ -377,7 +377,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-26T08:26:55.459151+00:00",
+          "seen": "2026-11-26T21:38:15.267974+00:00",
           "niche": "software"
         },
         {
@@ -450,14 +450,6 @@
           "source": "Hacker News RSS",
           "published": "2026-10-28T13:27:24+00:00",
           "seen": "2026-10-28T19:04:26.577161+00:00",
-          "niche": "software"
-        },
-        {
-          "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible",
-          "title": "Software may be getting worse, but it used to be horrible",
-          "source": "Hacker News RSS",
-          "published": "2026-10-27T11:30:35+00:00",
-          "seen": "2026-10-27T18:58:11.948015+00:00",
           "niche": "software"
         }
       ],
