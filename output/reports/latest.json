@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:45:08.197409+00:00",
+  "generated_at": "2026-11-26T08:26:55.863877+00:00",
   "opportunities": [
     {
       "id": "data",
@@ -22,7 +22,7 @@
           "title": "SpaceX wins FCC approval to deploy 1M orbital data center satellites",
           "source": "Hacker News RSS",
           "published": "2026-11-25T18:59:43+00:00",
-          "seen": "2026-11-25T21:45:04.307349+00:00",
+          "seen": "2026-11-26T08:26:55.459151+00:00",
           "niche": "data"
         },
         {
@@ -217,7 +217,7 @@
           "title": "These are the gifts developers will actually want",
           "source": "GitHub Blog",
           "published": "2026-11-24T16:00:00+00:00",
-          "seen": "2026-11-25T21:45:04.307349+00:00",
+          "seen": "2026-11-26T08:26:55.459151+00:00",
           "niche": "software"
         },
         {
@@ -249,7 +249,7 @@
           "title": "The best things in open source are built together",
           "source": "GitHub Blog",
           "published": "2026-11-19T16:00:00+00:00",
-          "seen": "2026-11-25T21:45:04.307349+00:00",
+          "seen": "2026-11-26T08:26:55.459151+00:00",
           "niche": "software"
         },
         {
@@ -377,7 +377,7 @@
           "title": "Beyond code generation: A developer\u2019s guide to agentic engineering",
           "source": "GitHub Blog",
           "published": "2026-11-06T22:15:59+00:00",
-          "seen": "2026-11-25T21:45:04.307349+00:00",
+          "seen": "2026-11-26T08:26:55.459151+00:00",
           "niche": "software"
         },
         {
