@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-26T21:38:16.873042+00:00
+2026-11-27T08:41:22.230945+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -28,6 +28,7 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28) (Hacker News RSS, 2026-10-28T20:46:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
+- [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en) (Hacker News RSS, 2026-11-27T03:11:41+00:00)
 - [These are the gifts developers will actually want](https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want) (GitHub Blog, 2026-11-24T16:00:00+00:00)
 - [Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer) (Hacker News RSS, 2026-11-20T20:19:56+00:00)
 - [We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html) (Hacker News RSS, 2026-11-20T18:17:51+00:00)
