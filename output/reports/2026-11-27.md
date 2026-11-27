@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-27T08:41:22.230945+00:00
+2026-11-27T21:22:32.332669+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
@@ -25,7 +25,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370) (Hacker News RSS, 2026-11-03T17:22:37+00:00)
 - [Sam Altman says DRAM capacity should go to data centers, not personal computers](https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization) (Hacker News RSS, 2026-11-01T10:28:22+00:00)
 - [Keplearn: Extract Equations from Data in Seconds](https://github.com/owls-on-wires/keplearn) (Hacker News RSS, 2026-10-29T14:22:53+00:00)
-- [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28) (Hacker News RSS, 2026-10-28T20:46:52+00:00)
 ## Small software project launch toolkit — priority 21/30
 News relevance is not purchase intent. Interview buyers and compare alternatives before listing.
 - [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en) (Hacker News RSS, 2026-11-27T03:11:41+00:00)
@@ -56,9 +55,6 @@ News relevance is not purchase intent. Interview buyers and compare alternatives
 - [U.S. workers took home their smallest share of capital since at least 1947](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded) (Hacker News RSS, 2026-11-01T23:20:31+00:00)
 - [The importance of communities around software](https://lumi.codeberg.page/blog/software-community.html) (Hacker News RSS, 2026-10-29T19:27:47+00:00)
 - [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) (Hacker News RSS, 2026-10-29T13:58:41+00:00)
-- [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents) (GitHub Blog, 2026-10-28T16:07:40+00:00)
-- [Harvey raised 500M for legal AI, I built the same and open sourced it](https://github.com/thomasunise/casecite) (Hacker News RSS, 2026-10-28T13:56:21+00:00)
-- [Valve Responds to Developers Fearing AI Slop and Clones](https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones) (Hacker News RSS, 2026-10-28T13:27:24+00:00)
 
 ## Source errors
 []
