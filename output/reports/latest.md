@@ -1,5 +1,5 @@
 # BUILT 4 GOD AI — Scout report
-2026-11-27T21:22:32.332669+00:00
+2026-11-28T07:55:51.660342+00:00
 Heuristic leads, not validated businesses or earnings forecasts.
 
 ## Data quality checklist and tracking workbook — priority 21/30
